@@ -306732,7 +306732,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -306804,6 +306804,18 @@
 					)
 				)
 			)
+		)
+		(fp_poly
+			(pts
+				(xy 0.355335 -0.010345) (xy 0.36998 0.02501) (xy 0.36998 1.223) (xy 0.355335 1.25835) (xy 0.31998 1.273) (xy -0.32 1.273) (xy -0.355355 1.25835) (xy -0.37 1.223) (xy -0.37001 0.02501) (xy -0.355366 -0.010345) (xy -0.32001 -0.02499) (xy 0.31998 -0.02499)
+			)
+			(stroke
+				(width 0)
+				(type default)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "7426e347-6fae-449c-aa3a-d8e8956504a3")
 		)
 		(pad "1" smd rect
 			(at 0 0.15)
@@ -662464,20 +662476,6 @@
 		(layer "F.Cu")
 		(net "5V_VIN")
 		(uuid "fc4f2f98-fb57-40c6-a09a-448707a3afd5")
-	)
-	(gr_poly
-		(pts
-			(xy 113.711445 82.993255) (xy 113.72609 83.02861) (xy 113.72609 84.2266) (xy 113.711445 84.261955)
-			(xy 113.67609 84.2766) (xy 113.03611 84.2766) (xy 113.000755 84.261955) (xy 112.98611 84.2266) (xy 112.9861 83.02861)
-			(xy 113.000744 82.993255) (xy 113.0361 82.97861) (xy 113.67609 82.97861)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "3e9eeb04-292d-4999-b639-f32a289a19af")
 	)
 	(gr_rect
 		(start 196.23727 38.04905)
