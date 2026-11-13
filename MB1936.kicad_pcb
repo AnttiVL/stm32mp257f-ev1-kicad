@@ -200631,7 +200631,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -353996,7 +353996,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -426485,7 +426485,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd)
+		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
