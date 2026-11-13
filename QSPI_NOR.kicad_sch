@@ -31785,7 +31785,8 @@
 		)
 		(uuid "2511c1b6-a7ad-4d19-82a6-eb992694a642")
 	)
-	(label "QSPI1.NCS1"
+	(global_label "QSPI1.NCS1"
+		(shape bidirectional)
 		(at 45.72 69.85 0)
 		(effects
 			(font
@@ -31794,6 +31795,15 @@
 			(justify left bottom)
 		)
 		(uuid "28af1988-2ff0-41e2-ae1b-1bccb6b263a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.72 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "QSPI1.IO0"
 		(at 165.1 113.03 0)
@@ -31835,7 +31845,8 @@
 		)
 		(uuid "957c5ded-78c7-4b08-82ad-21a3f6b32210")
 	)
-	(label "QSPI1.NCS1"
+	(global_label "QSPI1.NCS1"
+		(shape bidirectional)
 		(at 129.54 97.79 0)
 		(effects
 			(font
@@ -31844,6 +31855,15 @@
 			(justify left bottom)
 		)
 		(uuid "99b8afd2-0b75-42c1-82d1-db73fd95bc1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "QSPI1.CLK"
 		(at 45.72 67.31 0)

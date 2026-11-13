@@ -60489,6 +60489,50 @@
 		)
 		(uuid "d39fd54e-d47e-4d87-99a0-c14a2b456420")
 	)
+	(global_label "EXP_GPIO2"
+		(shape bidirectional)
+		(at 368.3 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ae9c8d1-f7e3-4575-82c1-50313e6d85ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 368.3 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXP_GPIO3"
+		(shape bidirectional)
+		(at 368.3 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4fc2df7-7eb3-45e6-b123-87c611534888")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 368.3 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "MB1936-altium-import:GND_POWER_GROUND")
 		(at 99.06 52.07 180)

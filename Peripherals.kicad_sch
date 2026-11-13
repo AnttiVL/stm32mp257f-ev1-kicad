@@ -38719,7 +38719,8 @@
 		)
 		(uuid "18cd339f-5208-4e45-b6b6-a37b8e24dc9b")
 	)
-	(label "BUTTON.USER1"
+	(global_label "BUTTON.USER1"
+		(shape bidirectional)
 		(at 53.34 46.99 0)
 		(effects
 			(font
@@ -38728,6 +38729,15 @@
 			(justify left bottom)
 		)
 		(uuid "1f6c14e0-6699-4098-bfe8-cb89091353fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.34 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "LED1"
 		(at 215.9 176.53 0)
@@ -38739,7 +38749,8 @@
 		)
 		(uuid "20d03441-43a8-4c37-be8d-95e525ef96be")
 	)
-	(label "BUTTON.USER2"
+	(global_label "BUTTON.USER2"
+		(shape bidirectional)
 		(at 5.08 148.59 0)
 		(effects
 			(font
@@ -38748,6 +38759,15 @@
 			(justify left bottom)
 		)
 		(uuid "216584c7-4a0e-4a84-a070-4f0b20dd03af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 5.08 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "{BUTTON}"
 		(at 33.02 46.99 180)
@@ -38779,7 +38799,8 @@
 		)
 		(uuid "62e9789f-a506-4491-9b98-ae18e1b23252")
 	)
-	(label "BUTTON.USER2"
+	(global_label "BUTTON.USER2"
+		(shape bidirectional)
 		(at 53.34 49.53 0)
 		(effects
 			(font
@@ -38788,6 +38809,15 @@
 			(justify left bottom)
 		)
 		(uuid "6628c33c-f8d6-42f6-a3cb-2554ea797461")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.34 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "LED3"
 		(at 256.54 234.95 0)
@@ -38819,7 +38849,8 @@
 		)
 		(uuid "849133b6-9e52-4893-b3ed-c82e24862560")
 	)
-	(label "BUTTON.USER1"
+	(global_label "BUTTON.USER1"
+		(shape bidirectional)
 		(at 71.12 148.59 0)
 		(effects
 			(font
@@ -38828,6 +38859,15 @@
 			(justify left bottom)
 		)
 		(uuid "95ed9b4c-8bed-4af9-bb9f-be7e105d9893")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "BOOT3"
 		(at 254 107.95 0)
@@ -38952,6 +38992,50 @@
 			(justify right)
 		)
 		(uuid "fc617c5f-9551-44d5-94af-296db22d2843")
+	)
+	(global_label "BUTTON.USER1"
+		(shape bidirectional)
+		(at 88.9 151.13 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "24bf7db7-2db9-4a14-93fe-df6396d44c4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.9 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON.USER2"
+		(shape bidirectional)
+		(at 22.86 151.13 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f43d94ee-00df-4254-8a4c-9355cbbfe244")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.86 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "MB1936-altium-import:GND_POWER_GROUND")

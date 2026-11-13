@@ -50345,7 +50345,8 @@
 		)
 		(uuid "0125e089-f342-4a4d-ad28-bf8b8110b3f2")
 	)
-	(label "I2C2.SDA"
+	(global_label "I2C2.SDA"
+		(shape bidirectional)
 		(at 160.02 105.41 0)
 		(effects
 			(font
@@ -50354,6 +50355,15 @@
 			(justify left bottom)
 		)
 		(uuid "01b21e58-3e31-4448-9279-5d50e9c85e26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.02 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "CSI.CK_P"
 		(at 124.46 196.85 0)
@@ -50425,7 +50435,8 @@
 		)
 		(uuid "1225fb67-d227-42ca-a376-1562beb70a81")
 	)
-	(label "HDMI_I2S2.CK"
+	(global_label "HDMI_I2S2.CK"
+		(shape bidirectional)
 		(at 104.14 100.33 0)
 		(effects
 			(font
@@ -50434,8 +50445,18 @@
 			(justify left bottom)
 		)
 		(uuid "12ff3277-524e-4e19-ac02-6c7f6ce050f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.14 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "HDMI_I2S2_SDO"
+	(global_label "HDMI_I2S2_SDO"
+		(shape bidirectional)
 		(at 50.8 166.37 0)
 		(effects
 			(font
@@ -50444,6 +50465,15 @@
 			(justify left bottom)
 		)
 		(uuid "13afdec3-1ebe-4218-a5b2-dc729a0cc9c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "LVDS1.CLKcon_P"
 		(at 266.7 118.11 0)
@@ -50515,7 +50545,8 @@
 		)
 		(uuid "1e2ad90f-11e8-40c0-a29c-0cb8437b08be")
 	)
-	(label "I2C2.SDA"
+	(global_label "I2C2.SDA"
+		(shape bidirectional)
 		(at 205.74 260.35 0)
 		(effects
 			(font
@@ -50524,6 +50555,15 @@
 			(justify left bottom)
 		)
 		(uuid "1eb87719-dd12-4573-88c6-bd434f9c2d90")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.74 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "CSI.D1_P"
 		(at 124.46 219.71 0)
@@ -50855,7 +50895,8 @@
 		)
 		(uuid "63db1ab3-60fb-4e71-befd-44bf420bfb87")
 	)
-	(label "HDMI_I2S2_SDO"
+	(global_label "HDMI_I2S2_SDO"
+		(shape bidirectional)
 		(at 104.14 105.41 0)
 		(effects
 			(font
@@ -50864,6 +50905,15 @@
 			(justify left bottom)
 		)
 		(uuid "645ce89e-c425-4a24-913b-06e5f1f634ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.14 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DISP.LED_EN"
 		(at 335.28 130.81 0)
@@ -50935,7 +50985,8 @@
 		)
 		(uuid "701784c7-39bf-4848-af7c-040b40e9af58")
 	)
-	(label "HDMI_I2S2.WS"
+	(global_label "HDMI_I2S2.WS"
+		(shape bidirectional)
 		(at 104.14 102.87 0)
 		(effects
 			(font
@@ -50944,6 +50995,15 @@
 			(justify left bottom)
 		)
 		(uuid "73d64608-91d2-4627-9dfa-343d4dbe386b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.14 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "LVDS1.D2_P"
 		(at 256.54 59.69 0)
@@ -50985,7 +51045,8 @@
 		)
 		(uuid "7c8c9df9-8104-4879-9d6e-b8bec1dbac7f")
 	)
-	(label "I2C2.SCL"
+	(global_label "I2C2.SCL"
+		(shape bidirectional)
 		(at 330.2 57.15 0)
 		(effects
 			(font
@@ -50994,8 +51055,18 @@
 			(justify left bottom)
 		)
 		(uuid "7cd86897-e7c3-4687-9f0b-4a9b134a09e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "I2C2.SCL"
+	(global_label "I2C2.SCL"
+		(shape bidirectional)
 		(at 50.8 128.27 0)
 		(effects
 			(font
@@ -51004,6 +51075,15 @@
 			(justify left bottom)
 		)
 		(uuid "7d386bae-d24b-4deb-8a1b-753600fd0a91")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DSI.D1_P"
 		(at 68.58 95.25 0)
@@ -51045,7 +51125,8 @@
 		)
 		(uuid "83179c60-f50b-452f-bda1-eedc46a87ab1")
 	)
-	(label "HDMI_I2S2.WS"
+	(global_label "HDMI_I2S2.WS"
+		(shape bidirectional)
 		(at 50.8 163.83 0)
 		(effects
 			(font
@@ -51054,6 +51135,15 @@
 			(justify left bottom)
 		)
 		(uuid "8463fa64-273a-47ea-a962-d3f56b5c1355")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "LVDS1.CLK_N"
 		(at 256.54 67.31 0)
@@ -51125,7 +51215,8 @@
 		)
 		(uuid "a01f5b31-e79a-45af-900d-21891c4fbbf7")
 	)
-	(label "I2C2.SDA"
+	(global_label "I2C2.SDA"
+		(shape bidirectional)
 		(at 330.2 59.69 0)
 		(effects
 			(font
@@ -51134,6 +51225,15 @@
 			(justify left bottom)
 		)
 		(uuid "a0d32c2a-53a2-4ca2-90e7-90f3d9367683")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 330.2 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DISP.TE"
 		(at 50.8 138.43 0)
@@ -51155,7 +51255,8 @@
 		)
 		(uuid "a447aac1-1bb4-4783-ab00-a31f09cdcb19")
 	)
-	(label "HDMI_I2S2.CK"
+	(global_label "HDMI_I2S2.CK"
+		(shape bidirectional)
 		(at 50.8 161.29 0)
 		(effects
 			(font
@@ -51164,6 +51265,15 @@
 			(justify left bottom)
 		)
 		(uuid "a4bc2207-8b0a-4c4f-a4b1-38dc586155e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DSI.CK_N"
 		(at 104.14 62.23 0)
@@ -51205,7 +51315,8 @@
 		)
 		(uuid "b063898f-51e8-4f7f-b7be-be83e1ad6670")
 	)
-	(label "I2C2.SCL"
+	(global_label "I2C2.SCL"
+		(shape bidirectional)
 		(at 205.74 257.81 0)
 		(effects
 			(font
@@ -51214,6 +51325,15 @@
 			(justify left bottom)
 		)
 		(uuid "b1df150b-a1e6-4a34-9bc4-42850c0db253")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.74 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "CSI.D1_N"
 		(at 124.46 222.25 0)
@@ -51395,7 +51515,8 @@
 		)
 		(uuid "d682f14f-3ca0-491e-aef9-537ef6f7119b")
 	)
-	(label "I2C2.SDA"
+	(global_label "I2C2.SDA"
+		(shape bidirectional)
 		(at 50.8 125.73 0)
 		(effects
 			(font
@@ -51404,6 +51525,15 @@
 			(justify left bottom)
 		)
 		(uuid "d6bea01d-f481-42ee-86b9-152619aaca12")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DSI.D3_P"
 		(at 175.26 72.39 0)
@@ -51435,7 +51565,8 @@
 		)
 		(uuid "d8a80122-6f22-43e6-a472-e671777f8958")
 	)
-	(label "I2C2.SCL"
+	(global_label "I2C2.SCL"
+		(shape bidirectional)
 		(at 160.02 110.49 0)
 		(effects
 			(font
@@ -51444,6 +51575,15 @@
 			(justify left bottom)
 		)
 		(uuid "dbd0b9c0-74bf-47a7-aac5-902d0ba5bd7d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.02 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(label "DSI.CK_P"
 		(at 104.14 59.69 0)
@@ -51684,6 +51824,50 @@
 			(justify right)
 		)
 		(uuid "dd6c9fd9-30ea-4e9c-8d85-91b85d700805")
+	)
+	(global_label "I2C2.SCL"
+		(shape bidirectional)
+		(at 353.06 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a8d51c1-7861-46ae-b92f-d3d8b72d35ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 353.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C2.SDA"
+		(shape bidirectional)
+		(at 353.06 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "196a1304-6d26-49ec-ba2f-251de4c303cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 353.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "MB1936-altium-import:GND_POWER_GROUND")

@@ -34060,6 +34060,138 @@
 		)
 		(uuid "5c8cc48e-3d50-4f18-9cc8-f3156dd508c8")
 	)
+	(global_label "FDCAN1.RX"
+		(shape bidirectional)
+		(at 119.38 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "81a3fc27-80cf-4215-8625-7967f6c382f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN1.STBY"
+		(shape bidirectional)
+		(at 157.48 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "79f70da6-9ad7-47bd-aa49-e4a34f5e66b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN1.TX"
+		(shape bidirectional)
+		(at 119.38 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5163d003-1f43-4200-a121-f8fb40ced736")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN3.RX"
+		(shape bidirectional)
+		(at 119.38 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bec1f0ee-5d08-4c63-a25f-8c0bc37b3c43")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN3.STBY"
+		(shape bidirectional)
+		(at 157.48 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "858af5e8-e485-4fd2-8129-251dd71b0fa2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FDCAN3.TX"
+		(shape bidirectional)
+		(at 119.38 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e883452b-6989-49ff-8893-4971ea4fe3fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "MCD_PARTS_database:Resistor")
 		(at 215.9 156.21 90)
