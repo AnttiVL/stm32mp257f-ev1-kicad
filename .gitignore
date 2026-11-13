@@ -9,3 +9,4 @@ fp-info-cache
 
 # Editor local history
 .history/
+.history_trim/

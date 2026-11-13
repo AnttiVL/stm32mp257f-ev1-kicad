@@ -306735,6 +306735,20 @@
 		(attr smd allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 0.355335 -0.010345) (xy 0.36998 0.02501) (xy 0.36998 1.223) (xy 0.355335 1.25835) (xy 0.31998 1.273)
+				(xy -0.32 1.273) (xy -0.355355 1.25835) (xy -0.37 1.223) (xy -0.37001 0.02501) (xy -0.355366 -0.010345)
+				(xy -0.32001 -0.02499) (xy 0.31998 -0.02499)
+			)
+			(stroke
+				(width 0)
+				(type default)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "7426e347-6fae-449c-aa3a-d8e8956504a3")
+		)
 		(fp_text_box "${REFERENCE}"
 			(start -0.12366 0.75001)
 			(end 0.12501 -0.7016)
@@ -306804,18 +306818,6 @@
 					)
 				)
 			)
-		)
-		(fp_poly
-			(pts
-				(xy 0.355335 -0.010345) (xy 0.36998 0.02501) (xy 0.36998 1.223) (xy 0.355335 1.25835) (xy 0.31998 1.273) (xy -0.32 1.273) (xy -0.355355 1.25835) (xy -0.37 1.223) (xy -0.37001 0.02501) (xy -0.355366 -0.010345) (xy -0.32001 -0.02499) (xy 0.31998 -0.02499)
-			)
-			(stroke
-				(width 0)
-				(type default)
-			)
-			(fill yes)
-			(layer "F.Mask")
-			(uuid "7426e347-6fae-449c-aa3a-d8e8956504a3")
 		)
 		(pad "1" smd rect
 			(at 0 0.15)
