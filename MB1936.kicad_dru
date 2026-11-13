@@ -115,3 +115,15 @@
 (rule "ST pour to hole 0.25"
 	(condition "A.Net != B.Net && ((A.Type == 'Zone' && !B.intersectsArea('RoomDefinition_MCU')) || (B.Type == 'Zone' && !A.intersectsArea('RoomDefinition_MCU')))")
 	(constraint hole_clearance (min 0.25mm)))
+
+# --- Pour clearance to controlled-impedance routing ------------------------
+# ST keeps copper pours 0.33 mm from 50/55 ohm single-ended nets
+# (Clearance_SINGLE_55R) and 0.48 mm from differential pairs
+# (Clearance_POLY_DIFF-PAIRS), so the pours do not load the line impedance.
+(rule "ST pour to 50/55R single-ended 0.33"
+	(condition "A.Type == 'Zone' && A.Net != B.Net && (B.hasNetclass('NC_SINGLE_DDR_55R') || B.hasNetclass('NC_SINGLE_SDMMC1_50R') || B.hasNetclass('NC_SINGLE_SDMMC2_50R') || B.hasNetclass('NC_SINGLE_OCTOSPI_50R') || B.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK')) && B.Type != 'Pad' && B.Type != 'Via'")
+	(constraint clearance (min 0.33mm)))
+
+(rule "ST pour to diff pairs 0.48"
+	(condition "A.Type == 'Zone' && A.Net != B.Net && (B.hasNetclass('NC_DP_ETH_100R') || B.hasNetclass('NC_DP_CSI_100R') || B.hasNetclass('NC_DP_DSI_100R') || B.hasNetclass('NC_DP_USB_90R') || B.hasNetclass('NC_DP_DDR_100R') || B.hasNetclass('NC_DP_LVDS_100R') || B.hasNetclass('NC_DP_PCIE_100R')) && B.Type != 'Pad' && B.Type != 'Via'")
+	(constraint clearance (min 0.48mm)))
