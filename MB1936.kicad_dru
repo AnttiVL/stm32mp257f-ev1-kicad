@@ -132,3 +132,20 @@
 (rule "ST pour to impedance-net vias 0.15"
 	(condition "A.Type == 'Zone' && A.Net != B.Net && B.Type == 'Via' && (B.hasNetclass('NC_SINGLE_DDR_55R') || B.hasNetclass('NC_SINGLE_SDMMC1_50R') || B.hasNetclass('NC_SINGLE_SDMMC2_50R') || B.hasNetclass('NC_SINGLE_OCTOSPI_50R') || B.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK') || B.hasNetclass('NC_DP_ETH_100R') || B.hasNetclass('NC_DP_CSI_100R') || B.hasNetclass('NC_DP_DSI_100R') || B.hasNetclass('NC_DP_USB_90R') || B.hasNetclass('NC_DP_DDR_100R') || B.hasNetclass('NC_DP_LVDS_100R') || B.hasNetclass('NC_DP_PCIE_100R'))")
 	(constraint clearance (min 0.15mm)))
+
+# --- Test points under the mini-PCIe card (ST placement) -------------------
+# ST placed seven flat test pads inside the courtyard of the mini-PCIe card
+# connector CN13, under the card. Their courtyard overlap is by design.
+(rule "ST test points under the mini-PCIe card"
+	(condition "(A.Reference == 'CN13' && (B.Reference == 'TP16' || B.Reference == 'TP17' || B.Reference == 'TP18' || B.Reference == 'TP19' || B.Reference == 'TP20' || B.Reference == 'TP21' || B.Reference == 'TP23')) || (B.Reference == 'CN13' && (A.Reference == 'TP16' || A.Reference == 'TP17' || A.Reference == 'TP18' || A.Reference == 'TP19' || A.Reference == 'TP20' || A.Reference == 'TP21' || A.Reference == 'TP23'))")
+	(constraint courtyard_clearance (min 0mm))
+	(severity ignore))
+
+# --- RJ45 shield pins and TP22: one thermal spoke on In4 (ST copper) -------
+# On In4 these GND pins reach the GND pour through one thermal spoke, the
+# same as in ST's fabricated copper (G4). They connect to GND on every other
+# layer too. Accept one spoke here only; everything else keeps the minimum of 2.
+(rule "ST one In4 spoke on RJ45 shield pins and TP22"
+	(layer "In4.Cu")
+	(condition "(A.Type == 'Pad' && (A.memberOfFootprint('CN16') || A.memberOfFootprint('CN17') || A.memberOfFootprint('CN18') || A.memberOfFootprint('TP22'))) || (B.Type == 'Pad' && (B.memberOfFootprint('CN16') || B.memberOfFootprint('CN17') || B.memberOfFootprint('CN18') || B.memberOfFootprint('TP22')))")
+	(constraint min_resolved_spokes 1))

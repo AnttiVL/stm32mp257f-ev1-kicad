@@ -1584,6 +1584,26 @@
 			)
 		)
 	)
+	(fp_line
+		(start -15.7 10.525)
+		(end -15.625 10.49999)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4b325b4f-be7b-4990-a772-a0a29e959705")
+	)
+	(fp_line
+		(start 15.7 10.525)
+		(end 15.65 10.49999)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "70945dd3-f43d-4a0c-96cb-711d6b0014ff")
+	)
 	(pad "1" thru_hole rect
 		(at -5.54 -8.77001)
 		(size 1.5 1.5)

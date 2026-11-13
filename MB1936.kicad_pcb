@@ -60529,6 +60529,26 @@
 				)
 			)
 		)
+		(fp_line
+			(start -15.7 10.525)
+			(end -15.625 10.5)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "71aeee6c-1fc0-4ac9-838e-0bcc74ef4da3")
+		)
+		(fp_line
+			(start 15.7 10.525)
+			(end 15.65 10.5)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "44ed77f4-c310-4e0d-ad66-bb04df653ef4")
+		)
 		(pad "1" thru_hole rect
 			(at -5.54 -8.77 270)
 			(size 1.5 1.5)
@@ -88805,16 +88825,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "a56ea3a3-d397-4d30-90ef-16837ead8cb0")
-		)
-		(fp_line
-			(start 4.45 3.225)
-			(end 4.45 3.25)
-			(stroke
-				(width 0.01)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "df46e655-e386-4f4e-9a42-80ea5a6a5893")
 		)
 		(fp_line
 			(start 1.3 1.2)
@@ -212370,6 +212380,26 @@
 					)
 				)
 			)
+		)
+		(fp_line
+			(start -15.7 10.525)
+			(end -15.625 10.49999)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2b03ea8b-4d48-40c1-9a5d-2602bac53087")
+		)
+		(fp_line
+			(start 15.7 10.525)
+			(end 15.65 10.49999)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5f5f84b4-e04e-4dc9-8506-526521881baf")
 		)
 		(pad "1" thru_hole rect
 			(at -5.54 -8.77001 270)
@@ -337169,7 +337199,7 @@
 				)
 			)
 		)
-		(fp_text user "${GTL}"
+		(fp_text user ".GTL"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "F.Cu")
@@ -337182,7 +337212,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GTL}" 0
+			(render_cache ".GTL" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -337381,7 +337411,7 @@
 				)
 			)
 		)
-		(fp_text user "${GTS}"
+		(fp_text user ".GTS"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "F.Mask")
@@ -337394,7 +337424,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GTS}" 0
+			(render_cache ".GTS" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -337521,7 +337551,7 @@
 				)
 			)
 		)
-		(fp_text user "${GBL}"
+		(fp_text user ".GBL"
 			(at 39.48478 -11.2797 0)
 			(unlocked yes)
 			(layer "B.Cu")
@@ -337534,7 +337564,7 @@
 				)
 				(justify left bottom mirror)
 			)
-			(render_cache "${GBL}" 0
+			(render_cache ".GBL" 0
 				(polygon
 					(pts
 						(xy 137.64206 191.154905) (xy 137.792908 191.181695) (xy 137.906497 191.224604) (xy 137.990698 191.280927)
@@ -337733,7 +337763,7 @@
 				)
 			)
 		)
-		(fp_text user "${GBS}"
+		(fp_text user ".GBS"
 			(at 39.48478 -11.2797 0)
 			(unlocked yes)
 			(layer "B.Mask")
@@ -337746,7 +337776,7 @@
 				)
 				(justify left bottom mirror)
 			)
-			(render_cache "${GBS}" 0
+			(render_cache ".GBS" 0
 				(polygon
 					(pts
 						(xy 137.64206 191.154905) (xy 137.792908 191.181695) (xy 137.906497 191.224604) (xy 137.990698 191.280927)
@@ -338080,7 +338110,7 @@
 				)
 			)
 		)
-		(fp_text user "${G1}"
+		(fp_text user ".G1"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "In1.Cu")
@@ -338093,7 +338123,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${G1}" 0
+			(render_cache ".G1" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -338380,7 +338410,7 @@
 				)
 			)
 		)
-		(fp_text user "${GTO}"
+		(fp_text user ".GTO"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -338393,7 +338423,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GTO}" 0
+			(render_cache ".GTO" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -338608,7 +338638,7 @@
 				)
 			)
 		)
-		(fp_text user "${G2}"
+		(fp_text user ".G2"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "In2.Cu")
@@ -338621,7 +338651,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${G2}" 0
+			(render_cache ".G2" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -338732,7 +338762,7 @@
 				)
 			)
 		)
-		(fp_text user "${GBO}"
+		(fp_text user ".GBO"
 			(at 39.48478 -11.2797 0)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -338745,7 +338775,7 @@
 				)
 				(justify left bottom mirror)
 			)
-			(render_cache "${GBO}" 0
+			(render_cache ".GBO" 0
 				(polygon
 					(pts
 						(xy 137.64206 191.154905) (xy 137.792908 191.181695) (xy 137.906497 191.224604) (xy 137.990698 191.280927)
@@ -339185,7 +339215,7 @@
 				)
 			)
 		)
-		(fp_text user "${G3}"
+		(fp_text user ".G3"
 			(at 50.71978 -11.32871 0)
 			(unlocked yes)
 			(layer "In3.Cu")
@@ -339198,7 +339228,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${G3}" 0
+			(render_cache ".G3" 0
 				(polygon
 					(pts
 						(xy 150.330929 191.105895) (xy 150.462545 191.129274) (xy 150.568067 191.169409) (xy 150.652331 191.224647)
@@ -339399,7 +339429,7 @@
 				)
 			)
 		)
-		(fp_text user "${G4}"
+		(fp_text user ".G4"
 			(at 50.71978 -11.32871 0)
 			(unlocked yes)
 			(layer "In4.Cu")
@@ -339412,7 +339442,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${G4}" 0
+			(render_cache ".G4" 0
 				(polygon
 					(pts
 						(xy 150.330929 191.105895) (xy 150.462545 191.129274) (xy 150.568067 191.169409) (xy 150.652331 191.224647)
@@ -339639,7 +339669,7 @@
 				)
 			)
 		)
-		(fp_text user "${GTP}"
+		(fp_text user ".GTP"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "F.Paste")
@@ -339652,7 +339682,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GTP}" 0
+			(render_cache ".GTP" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -339767,7 +339797,7 @@
 				)
 			)
 		)
-		(fp_text user "${GBP}"
+		(fp_text user ".GBP"
 			(at 39.48478 -11.2797 0)
 			(unlocked yes)
 			(layer "B.Paste")
@@ -339780,7 +339810,7 @@
 				)
 				(justify left bottom mirror)
 			)
-			(render_cache "${GBP}" 0
+			(render_cache ".GBP" 0
 				(polygon
 					(pts
 						(xy 137.64206 191.154905) (xy 137.792908 191.181695) (xy 137.906497 191.224604) (xy 137.990698 191.280927)
@@ -340280,7 +340310,7 @@
 				)
 			)
 		)
-		(fp_text user "${DRL}"
+		(fp_text user ".DRL"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "Dwgs.User")
@@ -340293,7 +340323,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${DRL}" 0
+			(render_cache ".DRL" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -340405,7 +340435,7 @@
 				)
 			)
 		)
-		(fp_text user "${GM15}"
+		(fp_text user ".GM15"
 			(at 39.48478 -11.2797 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -340418,7 +340448,7 @@
 				)
 				(justify left bottom mirror)
 			)
-			(render_cache "${GM15}" 0
+			(render_cache ".GM15" 0
 				(polygon
 					(pts
 						(xy 137.64206 191.154905) (xy 137.792908 191.181695) (xy 137.906497 191.224604) (xy 137.990698 191.280927)
@@ -340723,7 +340753,7 @@
 				)
 			)
 		)
-		(fp_text user "${GM14}"
+		(fp_text user ".GM14"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -340736,7 +340766,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GM14}" 0
+			(render_cache ".GM14" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -340962,7 +340992,7 @@
 				)
 			)
 		)
-		(fp_text user "${GM2}"
+		(fp_text user ".GM2"
 			(at 50.688 -11.3117 0)
 			(unlocked yes)
 			(layer "User.2")
@@ -340975,7 +341005,7 @@
 				)
 				(justify left bottom)
 			)
-			(render_cache "${GM2}" 0
+			(render_cache ".GM2" 0
 				(polygon
 					(pts
 						(xy 150.299149 191.122905) (xy 150.430765 191.146284) (xy 150.536287 191.186419) (xy 150.620551 191.241657)
@@ -666424,9 +666454,9 @@
 		(uuid "124c32be-d257-49ef-8c57-64f7fe973518")
 	)
 	(gr_arc
-		(start 62.5011 37.503596)
-		(mid 62.793996 36.79649)
-		(end 63.501104 36.5036)
+		(start 62.5011 37.5036)
+		(mid 62.793993 36.796493)
+		(end 63.5011 36.5036)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -666436,7 +666466,7 @@
 	)
 	(gr_line
 		(start 62.5011 78.5036)
-		(end 62.5011 37.503596)
+		(end 62.5011 37.5036)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -666474,16 +666504,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "18827e85-e16d-478e-92ef-c23d5e35612b")
-	)
-	(gr_line
-		(start 63.501104 36.5036)
-		(end 63.5011 36.5036)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2cf26012-afa9-4de6-bff7-514c5ba0c476")
 	)
 	(gr_arc
 		(start 233.5011 36.5036)
