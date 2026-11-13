@@ -107,6 +107,7 @@
 		)
 	)
 	(sheetfile ".kicad_sch")
+	(attr board_only exclude_from_pos_files exclude_from_bom)
 	(stackup
 		(layer "F.Cu")
 		(layer "B.Cu")
