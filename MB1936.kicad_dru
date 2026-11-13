@@ -97,7 +97,7 @@
 # --- USB-C receptacles: GND shell/pins sit close to the connector's own NPTH
 # locating holes by design (footprint geometry, not routing).
 (rule "USB-C NPTH to own pads"
-	(condition "A.intersectsCourtyard('CN15') || A.intersectsCourtyard('CN21')")
+	(condition "A.Type != 'Zone' && B.Type != 'Zone' && (A.intersectsCourtyard('CN15') || A.intersectsCourtyard('CN21'))")
 	(constraint edge_clearance (min 0.25mm)))
 
 # --- PMIC current-sense Kelvin ties (Altium ShortCircuit_I-SENS-* rules) ----
@@ -106,7 +106,7 @@
 # touch; nothing else is relaxed.
 (rule "ST Kelvin tie sense-to-rail"
 	(layer "F.Cu")
-	(condition "(A.NetName == '1V8' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N') || (A.NetName == 'VDDIO' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N') || (A.NetName == 'VDDCORE' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N') || (A.NetName == 'VDDCPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N') || (A.NetName == 'VDDGPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N') || (A.NetName == 'VDD_DDR' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N')")
+	(condition "A.Type != 'Zone' && B.Type != 'Zone' && ((A.NetName == '1V8' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N') || (A.NetName == 'VDDIO' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N') || (A.NetName == 'VDDCORE' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N') || (A.NetName == 'VDDCPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N') || (A.NetName == 'VDDGPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N') || (A.NetName == 'VDD_DDR' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N'))")
 	(constraint clearance (min 0mm))
 	(severity ignore))
 
@@ -117,13 +117,18 @@
 	(constraint hole_clearance (min 0.25mm)))
 
 # --- Pour clearance to controlled-impedance routing ------------------------
-# ST keeps copper pours 0.33 mm from 50/55 ohm single-ended nets
-# (Clearance_SINGLE_55R) and 0.48 mm from differential pairs
-# (Clearance_POLY_DIFF-PAIRS), so the pours do not load the line impedance.
+# ST keeps copper pours 0.33 mm from the tracks and pads of 50/55 ohm
+# single-ended nets (Clearance_SINGLE_55R) and 0.48 mm from those of
+# differential pairs (Clearance_POLY_DIFF-PAIRS); both rules use 0.15 mm
+# between pours and the vias of those nets.
 (rule "ST pour to 50/55R single-ended 0.33"
-	(condition "A.Type == 'Zone' && A.Net != B.Net && (B.hasNetclass('NC_SINGLE_DDR_55R') || B.hasNetclass('NC_SINGLE_SDMMC1_50R') || B.hasNetclass('NC_SINGLE_SDMMC2_50R') || B.hasNetclass('NC_SINGLE_OCTOSPI_50R') || B.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK')) && B.Type != 'Pad' && B.Type != 'Via'")
+	(condition "A.Type == 'Zone' && A.Net != B.Net && B.Type != 'Via' && (B.hasNetclass('NC_SINGLE_DDR_55R') || B.hasNetclass('NC_SINGLE_SDMMC1_50R') || B.hasNetclass('NC_SINGLE_SDMMC2_50R') || B.hasNetclass('NC_SINGLE_OCTOSPI_50R') || B.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK'))")
 	(constraint clearance (min 0.33mm)))
 
 (rule "ST pour to diff pairs 0.48"
-	(condition "A.Type == 'Zone' && A.Net != B.Net && (B.hasNetclass('NC_DP_ETH_100R') || B.hasNetclass('NC_DP_CSI_100R') || B.hasNetclass('NC_DP_DSI_100R') || B.hasNetclass('NC_DP_USB_90R') || B.hasNetclass('NC_DP_DDR_100R') || B.hasNetclass('NC_DP_LVDS_100R') || B.hasNetclass('NC_DP_PCIE_100R')) && B.Type != 'Pad' && B.Type != 'Via'")
+	(condition "A.Type == 'Zone' && A.Net != B.Net && B.Type != 'Via' && (B.hasNetclass('NC_DP_ETH_100R') || B.hasNetclass('NC_DP_CSI_100R') || B.hasNetclass('NC_DP_DSI_100R') || B.hasNetclass('NC_DP_USB_90R') || B.hasNetclass('NC_DP_DDR_100R') || B.hasNetclass('NC_DP_LVDS_100R') || B.hasNetclass('NC_DP_PCIE_100R'))")
 	(constraint clearance (min 0.48mm)))
+
+(rule "ST pour to impedance-net vias 0.15"
+	(condition "A.Type == 'Zone' && A.Net != B.Net && B.Type == 'Via' && (B.hasNetclass('NC_SINGLE_DDR_55R') || B.hasNetclass('NC_SINGLE_SDMMC1_50R') || B.hasNetclass('NC_SINGLE_SDMMC2_50R') || B.hasNetclass('NC_SINGLE_OCTOSPI_50R') || B.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK') || B.hasNetclass('NC_DP_ETH_100R') || B.hasNetclass('NC_DP_CSI_100R') || B.hasNetclass('NC_DP_DSI_100R') || B.hasNetclass('NC_DP_USB_90R') || B.hasNetclass('NC_DP_DDR_100R') || B.hasNetclass('NC_DP_LVDS_100R') || B.hasNetclass('NC_DP_PCIE_100R'))")
+	(constraint clearance (min 0.15mm)))
