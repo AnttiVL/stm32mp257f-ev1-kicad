@@ -86,7 +86,60 @@
           "width": 0.1
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "solder_mask_bridge|103246110|97971600|2772398a-5a76-4b07-b99e-5a1f417274f6|ad52c34a-07b5-47f9-b1d1-df49b567138b",
+          "False positive: no other-net copper exposed in the plotted mask"
+        ],
+        [
+          "solder_mask_bridge|106171110|89353600|67a4dd27-9736-4d8b-8739-c52d5edddecb|6046e30c-e184-4695-b07c-5c4dbf39cebf",
+          ""
+        ],
+        [
+          "solder_mask_bridge|107571110|90046600|0bda3c0e-0674-4c9f-bc2b-d4b933670d95|7d7ddfd7-64e9-4663-a3e4-0ca8f2ea04cd",
+          "False positive: no other-net copper exposed in the plotted mask"
+        ],
+        [
+          "solder_mask_bridge|112986110|84226600|3e9eeb04-292d-4999-b639-f32a289a19af|8ba8f0e5-967d-4298-b046-91b3781a6062",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113036100|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|3b7cedd5-94ce-4f0c-9cd7-233e9899fb6d",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113036100|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|3d2ad6eb-05ea-4990-b3a7-008e9c4f6b94",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113036100|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|5aa2e43e-4a77-407e-9c22-d865b000d433",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113036100|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|8ba8f0e5-967d-4298-b046-91b3781a6062",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113356110|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|3b7cedd5-94ce-4f0c-9cd7-233e9899fb6d",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113356110|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|3d2ad6eb-05ea-4990-b3a7-008e9c4f6b94",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113356110|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|5aa2e43e-4a77-407e-9c22-d865b000d433",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113356110|82978610|3e9eeb04-292d-4999-b639-f32a289a19af|8ba8f0e5-967d-4298-b046-91b3781a6062",
+          "ST design: exposed 1V8 sense window, same as ST mask"
+        ],
+        [
+          "solder_mask_bridge|113721110|92171600|350d95f2-18cd-4ff1-af8b-13b97dcd236a|6b3e3f62-510f-4509-9638-130372d3127d",
+          "False positive: no other-net copper exposed in the plotted mask"
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
