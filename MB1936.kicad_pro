@@ -1903,7 +1903,7 @@
         "uuid": "2e6275cf-c277-4f70-8237-05b268c465ab"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-597",
     "variants": [
       {
         "name": "MP257F_X"
@@ -1912,8 +1912,8 @@
   },
   "sheets": [
     [
-      "4d74c70d-1cd4-4027-a916-8ddf96385aac",
-      "U_Expansion _&_mikroBUS_Connectors"
+      "2e6275cf-c277-4f70-8237-05b268c465ab",
+      "MB1936_Project_Overview"
     ],
     [
       "4f3cc38c-5d60-488e-aab1-9ef068f9c630",
@@ -1972,8 +1972,8 @@
       "U_Video"
     ],
     [
-      "2e6275cf-c277-4f70-8237-05b268c465ab",
-      "MB1936_Project_Overview"
+      "4d74c70d-1cd4-4027-a916-8ddf96385aac",
+      "U_Expansion _&_mikroBUS_Connectors"
     ],
     [
       "42687140-747d-4079-9df6-3f2e6c152e11",

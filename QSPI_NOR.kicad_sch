@@ -31785,26 +31785,6 @@
 		)
 		(uuid "2511c1b6-a7ad-4d19-82a6-eb992694a642")
 	)
-	(global_label "QSPI1.NCS1"
-		(shape bidirectional)
-		(at 45.72 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "28af1988-2ff0-41e2-ae1b-1bccb6b263a6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.72 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(label "QSPI1.IO0"
 		(at 165.1 113.03 0)
 		(effects
@@ -31844,26 +31824,6 @@
 			(justify left bottom)
 		)
 		(uuid "957c5ded-78c7-4b08-82ad-21a3f6b32210")
-	)
-	(global_label "QSPI1.NCS1"
-		(shape bidirectional)
-		(at 129.54 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "99b8afd2-0b75-42c1-82d1-db73fd95bc1d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.54 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
 	(label "QSPI1.CLK"
 		(at 45.72 67.31 0)
@@ -31915,6 +31875,50 @@
 		)
 		(uuid "ec7fce8c-a0a8-4cc3-bbec-64c1ebb39d38")
 	)
+	(global_label "QSPI1.NCS1"
+		(shape bidirectional)
+		(at 45.72 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28af1988-2ff0-41e2-ae1b-1bccb6b263a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.72 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "QSPI1.NCS1"
+		(shape bidirectional)
+		(at 129.54 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99b8afd2-0b75-42c1-82d1-db73fd95bc1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
 	(hierarchical_label "NRSTC1MS"
 		(shape input)
 		(at 48.26 80.01 180)
@@ -31959,7 +31963,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01770e9a-90c3-4634-9926-d4028985727d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0465"
 			(at 226.06 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -32017,7 +32021,7 @@
 		(instances
 			(project "MB1936"
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/df6fa67e-f729-4365-b392-a9d0b09f2f5e"
-					(reference "#PWR?")
+					(reference "#PWR0465")
 					(unit 1)
 				)
 			)
@@ -32034,7 +32038,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "31425441-72d2-4912-b43b-e952d116fd14")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0464"
 			(at 226.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -32091,7 +32095,7 @@
 		(instances
 			(project "MB1936"
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/df6fa67e-f729-4365-b392-a9d0b09f2f5e"
-					(reference "#PWR?")
+					(reference "#PWR0464")
 					(unit 1)
 				)
 			)
@@ -32108,7 +32112,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5189055b-3632-4c80-95b4-f0e39fda3433")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0462"
 			(at 149.86 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -32165,7 +32169,7 @@
 		(instances
 			(project "MB1936"
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/df6fa67e-f729-4365-b392-a9d0b09f2f5e"
-					(reference "#PWR?")
+					(reference "#PWR0462")
 					(unit 1)
 				)
 			)
@@ -32182,7 +32186,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5534c2c2-a4fe-488b-b00e-719d857226fe")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0463"
 			(at 175.26 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -32239,7 +32243,7 @@
 		(instances
 			(project "MB1936"
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/df6fa67e-f729-4365-b392-a9d0b09f2f5e"
-					(reference "#PWR?")
+					(reference "#PWR0463")
 					(unit 1)
 				)
 			)
@@ -34036,7 +34040,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6620e37-6c8f-4749-9f3f-5e5ee5a5bc23")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0466"
 			(at 226.06 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -34094,7 +34098,7 @@
 		(instances
 			(project "MB1936"
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/df6fa67e-f729-4365-b392-a9d0b09f2f5e"
-					(reference "#PWR?")
+					(reference "#PWR0466")
 					(unit 1)
 				)
 			)
