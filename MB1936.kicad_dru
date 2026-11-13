@@ -1,0 +1,117 @@
+(version 1)
+
+# Design rules derived from ST's Altium rules in MB1936E/Altium_Designer/MB1936.PcbDoc
+# (Rules6 stream). Values converted from mil to mm. Board-wide minimums and
+# net classes live in Board Setup; this file holds the conditional rules.
+
+# --- BGA fan-out rooms (Altium Clearance_BGA-MCU / Clearance_BGA-EMMC_U7) -----
+# Inside the rooms ST allows 0.09 mm track-to-track and track-to-SMD-pad;
+# everything involving vias stays at the 0.1 mm default.
+(rule "ST room MCU 0.09"
+	(condition "A.intersectsArea('RoomDefinition_MCU') && A.Type != 'Via' && A.Type != 'Zone' && B.Type != 'Via' && B.Type != 'Zone'")
+	(constraint clearance (min 0.09mm)))
+
+(rule "ST room eMMC 0.09"
+	(condition "A.intersectsArea('RoomDefinition_eMMC') && A.Type != 'Via' && A.Type != 'Zone' && B.Type != 'Via' && B.Type != 'Zone'")
+	(constraint clearance (min 0.09mm)))
+
+# --- Controlled-impedance single-ended widths (Width_SINGLE_50R / _DDR_55R) ---
+(rule "ST 50R single outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_SINGLE_SDMMC1_50R') || A.hasNetclass('NC_SINGLE_SDMMC2_50R') || A.hasNetclass('NC_SINGLE_OCTOSPI_50R') || A.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK')")
+	(constraint track_width (min 0.09mm) (opt 0.11mm) (max 0.11mm)))
+
+(rule "ST 50R single inner"
+	(layer inner)
+	(condition "A.hasNetclass('NC_SINGLE_SDMMC1_50R') || A.hasNetclass('NC_SINGLE_SDMMC2_50R') || A.hasNetclass('NC_SINGLE_OCTOSPI_50R') || A.hasNetclass('NC_SINGLE_RGMII_ALL_50R_AND_CLK')")
+	(constraint track_width (min 0.0777mm) (opt 0.1992mm) (max 0.1992mm)))
+
+(rule "ST DDR 55R single outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_SINGLE_DDR_55R')")
+	(constraint track_width (min 0.09mm) (opt 0.09mm) (max 0.09mm)))
+
+(rule "ST DDR 55R single inner"
+	(layer inner)
+	(condition "A.hasNetclass('NC_SINGLE_DDR_55R')")
+	(constraint track_width (min 0.0777mm) (opt 0.1992mm) (max 0.1992mm)))
+
+# --- Differential pairs (DiffPairsRouting_*), gaps given for outer layers ----
+(rule "ST DP DDR 100R"
+	(condition "A.hasNetclass('NC_DP_DDR_100R')")
+	(constraint diff_pair_uncoupled (max 12.7mm)))
+(rule "ST DP DDR 100R outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_DP_DDR_100R')")
+	(constraint track_width (min 0.09mm) (opt 0.09mm) (max 0.09mm))
+	(constraint diff_pair_gap (opt 0.16mm)))
+
+(rule "ST DP PCIE 100R"
+	(condition "A.hasNetclass('NC_DP_PCIE_100R')")
+	(constraint diff_pair_uncoupled (max 12.7mm)))
+(rule "ST DP PCIE 100R outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_DP_PCIE_100R')")
+	(constraint track_width (min 0.09mm) (opt 0.09mm) (max 0.09mm))
+	(constraint diff_pair_gap (opt 0.16mm)))
+
+(rule "ST DP LVDS/CSI/DSI 100R"
+	(condition "A.hasNetclass('NC_DP_LVDS_100R') || A.hasNetclass('NC_DP_CSI_100R') || A.hasNetclass('NC_DP_DSI_100R')")
+	(constraint diff_pair_uncoupled (max 12.7mm)))
+(rule "ST DP LVDS/CSI/DSI 100R outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_DP_LVDS_100R') || A.hasNetclass('NC_DP_CSI_100R') || A.hasNetclass('NC_DP_DSI_100R')")
+	(constraint track_width (min 0.09mm) (opt 0.09mm) (max 0.09mm))
+	(constraint diff_pair_gap (opt 0.16mm)))
+
+(rule "ST DP ETH 100R"
+	(condition "A.hasNetclass('NC_DP_ETH_100R')")
+	(constraint diff_pair_uncoupled (max 12.7mm)))
+(rule "ST DP ETH 100R outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_DP_ETH_100R')")
+	(constraint track_width (min 0.09mm) (opt 0.09mm) (max 0.09mm))
+	(constraint diff_pair_gap (opt 0.16mm)))
+
+(rule "ST DP USB 90R"
+	(condition "A.hasNetclass('NC_DP_USB_90R')")
+	(constraint diff_pair_uncoupled (max 12.7mm)))
+(rule "ST DP USB 90R outer"
+	(layer outer)
+	(condition "A.hasNetclass('NC_DP_USB_90R')")
+	(constraint track_width (min 0.1mm) (opt 0.1mm) (max 0.1mm))
+	(constraint diff_pair_gap (opt 0.12mm)))
+
+# --- Length / matching (Length__*, MatchedLengths-INTRA__*) -----------------
+(rule "ST SDMMC1 length"
+	(condition "A.hasNetclass('NC_SINGLE_SDMMC1_50R')")
+	(constraint length (max 100mm)))
+(rule "ST SDMMC2 length"
+	(condition "A.hasNetclass('NC_SINGLE_SDMMC2_50R')")
+	(constraint length (max 50mm))
+	(constraint skew (max 5mm)))
+(rule "ST OCTOSPI matching"
+	(condition "A.hasNetclass('NC_SINGLE_OCTOSPI_50R')")
+	(constraint skew (max 5mm)))
+
+# --- USB-C receptacles: GND shell/pins sit close to the connector's own NPTH
+# locating holes by design (footprint geometry, not routing).
+(rule "USB-C NPTH to own pads"
+	(condition "A.intersectsCourtyard('CN15') || A.intersectsCourtyard('CN21')")
+	(constraint edge_clearance (min 0.25mm)))
+
+# --- PMIC current-sense Kelvin ties (Altium ShortCircuit_I-SENS-* rules) ----
+# Each sense line I_SENS_x_N is tied to its rail x directly in copper next to
+# its LINK200 jumper on F.Cu. ST's rules allow exactly these net pairs to
+# touch; nothing else is relaxed.
+(rule "ST Kelvin tie sense-to-rail"
+	(layer "F.Cu")
+	(condition "(A.NetName == '1V8' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N') || (A.NetName == 'VDDIO' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N') || (A.NetName == 'VDDCORE' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N') || (A.NetName == 'VDDCPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N') || (A.NetName == 'VDDGPU' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N') || (A.NetName == 'VDD_DDR' && B.NetName == '/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N')")
+	(constraint clearance (min 0mm))
+	(severity ignore))
+
+# --- Copper pours keep 0.25 mm from other-net holes (Altium Poly-Hole) ------
+# except inside the MCU BGA room, where ST allows 0.2 mm (board minimum).
+(rule "ST pour to hole 0.25"
+	(condition "A.Net != B.Net && ((A.Type == 'Zone' && !B.intersectsArea('RoomDefinition_MCU')) || (B.Type == 'Zone' && !A.intersectsArea('RoomDefinition_MCU')))")
+	(constraint hole_clearance (min 0.25mm)))

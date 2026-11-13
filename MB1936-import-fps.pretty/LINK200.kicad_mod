@@ -108,6 +108,7 @@
 	)
 	(sheetname "MB1936_Project_Overview\\U_MB1936-TOP\\U_Power_PMIC")
 	(sheetfile "MB1936_Project_Overview\\U_MB1936-TOP\\U_Power_PMIC.kicad_sch")
+	(net_tie_pad_groups "1, 2")
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_text_box "${REFERENCE}"
@@ -183,7 +184,7 @@
 		)
 	)
 	(pad "1" smd rect
-		(at 0 0.225)
+		(at 0 0.15)
 		(size 0.2 0.35)
 		(layers "F.Cu" "F.Paste")
 		(solder_mask_margin 0.05)
@@ -191,7 +192,7 @@
 		(uuid "3c5baf3d-37b5-4e33-a95a-d2b5a52dba27")
 	)
 	(pad "2" smd rect
-		(at 0 -0.225 180)
+		(at 0 -0.15 180)
 		(size 0.2 0.35)
 		(layers "F.Cu" "F.Paste")
 		(solder_mask_margin 0.05)

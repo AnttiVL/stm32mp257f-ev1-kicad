@@ -46270,6 +46270,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -46324,7 +46325,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 90)
+			(at 0 0.15 90)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDGPU_FB")
@@ -46335,7 +46336,7 @@
 			(uuid "af430454-38ae-45d5-99df-9b98be31329c")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 270)
+			(at 0 -0.15 270)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDGPU")
@@ -84599,6 +84600,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -84663,7 +84665,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 270)
+			(at 0 0.15 270)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDIO_FB")
@@ -84674,7 +84676,7 @@
 			(uuid "b6b07311-9952-4000-82b6-0f24b04c4f9f")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 90)
+			(at 0 -0.15 90)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDIO")
@@ -105918,6 +105920,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -105996,7 +105999,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 180)
+			(at 0 0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDGPU")
@@ -106007,7 +106010,7 @@
 			(uuid "585a2350-1c42-48a8-83bf-7877c6d9411d")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225)
+			(at 0 -0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
@@ -150010,6 +150013,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -150067,7 +150071,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 180)
+			(at 0 0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCPU")
@@ -150078,7 +150082,7 @@
 			(uuid "ce9f25cd-e0ef-44e5-9bb7-15330cb8a68d")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225)
+			(at 0 -0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCPU_FB")
@@ -181383,6 +181387,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -181457,7 +181462,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.22499 90)
+			(at 0 0.15 90)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
@@ -181468,7 +181473,7 @@
 			(uuid "f5207ae6-482a-4378-9a7c-568d52434338")
 		)
 		(pad "2" smd rect
-			(at 0 -0.22501 270)
+			(at 0 -0.15 270)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDD_DDR")
@@ -204211,6 +204216,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -204277,7 +204283,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 90)
+			(at 0 0.15 90)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCORE_FB")
@@ -204288,7 +204294,7 @@
 			(uuid "39747c70-e8a4-4afe-9481-054de97fed57")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 270)
+			(at 0 -0.15 270)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCORE")
@@ -207527,6 +207533,7 @@
 				(pins "2" "1")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -207607,7 +207614,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225)
+			(at 0 0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDIO")
@@ -207618,7 +207625,7 @@
 			(uuid "8ea638ba-6024-4b9c-8ade-c4c0ca4983d8")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 180)
+			(at 0 -0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_STLINK_V3EC/T_VCC")
@@ -209655,6 +209662,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -209729,7 +209737,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225)
+			(at 0 0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
@@ -209740,7 +209748,7 @@
 			(uuid "e4312c1c-1a40-4e2b-9ad4-1e735d211386")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 180)
+			(at 0 -0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDIO")
@@ -229421,6 +229429,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -229500,7 +229509,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 90)
+			(at 0 0.15 90)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDD_DDR_FB")
@@ -229511,7 +229520,7 @@
 			(uuid "7bb710fa-4c0d-4d2a-b052-5dd8a8d0baee")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 270)
+			(at 0 -0.15 270)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDD_DDR")
@@ -306308,6 +306317,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -306381,7 +306391,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225)
+			(at 0 0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
@@ -306392,7 +306402,7 @@
 			(uuid "c2c48233-36ff-40db-b3bd-7069bb9e81b6")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 180)
+			(at 0 -0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "1V8")
@@ -384486,6 +384496,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -384560,7 +384571,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 180)
+			(at 0 0.15 180)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCPU")
@@ -384571,7 +384582,7 @@
 			(uuid "4d0dc1e1-1b5f-4a59-836c-86859cbceeb4")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225)
+			(at 0 -0.15)
 			(size 0.8 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
@@ -441614,6 +441625,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -441669,7 +441681,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225)
+			(at 0 0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "1V8_FB")
@@ -441680,7 +441692,7 @@
 			(uuid "f75a4e14-6cd4-495e-b566-9fa790fce351")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225 180)
+			(at 0 -0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "1V8")
@@ -448515,6 +448527,7 @@
 				(pins "1" "2")
 			)
 		)
+		(net_tie_pad_groups "1, 2")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text_box "${REFERENCE}"
@@ -448582,7 +448595,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at 0 0.225 180)
+			(at 0 0.15 180)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "VDDCORE")
@@ -448593,7 +448606,7 @@
 			(uuid "ba3929ad-9592-49cb-ae62-8e2ba6a7ebd1")
 		)
 		(pad "2" smd rect
-			(at 0 -0.225)
+			(at 0 -0.15)
 			(size 0.2 0.35)
 			(layers "F.Cu" "F.Paste")
 			(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
@@ -866656,6 +866669,105 @@
 		(layer "F.Cu")
 		(net "/U_MB1936-TOP/U_STLINK_V3EC/STLK_USB_P")
 		(uuid "fcc83ded-d8f1-4a63-9256-2da95c84caff")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "B.Cu")
+		(uuid "bdcd8c43-2259-4111-9563-9f42ff8e3646")
+		(name "RoomDefinition_MCU")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 143.6734 89.0286) (xy 168.5734 89.0286) (xy 168.5734 113.0286) (xy 143.6734 113.0286)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "B.Cu")
+		(uuid "5178f288-9b20-403c-bb1e-e2114940f21a")
+		(name "RoomDefinition_DDR")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 168.7015 93.0286) (xy 205.8826 93.0286) (xy 205.8826 114.0286) (xy 168.7015 114.0286)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "B.Cu")
+		(uuid "847df53c-5776-4879-9246-e2df611756c9")
+		(name "RoomDefinition_eMMC")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 168.6961 81.1336) (xy 177.4311 81.1336) (xy 177.4311 87.1586) (xy 168.6961 87.1586)
+			)
+		)
 	)
 	(zone
 		(layer "F.Cu")
