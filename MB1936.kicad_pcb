@@ -660400,7 +660400,7 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "8ba8f0e5-967d-4298-b046-91b3781a6062")
 	)
 	(gr_poly
@@ -661109,7 +661109,7 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "e0ef4473-54b3-47c9-b0f8-21df2af54e5d")
 	)
 	(gr_poly
@@ -661593,7 +661593,7 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "26c9dcba-e262-4b2c-8f08-4d38e4aa7d00")
 	)
 	(gr_rect
@@ -661629,7 +661629,7 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "4a187471-eba7-4c36-8f63-2c1ff2e68e7b")
 	)
 	(gr_rect
@@ -744439,7 +744439,7 @@
 		(end 125.1511 83.8036)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "1b27f419-6d2a-40d9-aed0-0568f610787b")
 	)
 	(segment
@@ -744543,7 +744543,7 @@
 		(end 125.8261 86.24959)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "8b265cf6-742e-4384-a7b4-12ed22c96020")
 	)
 	(segment
@@ -744583,7 +744583,7 @@
 		(end 125.13111 84.7516)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "af159a01-8286-4080-8609-a79735f95244")
 	)
 	(segment
@@ -744663,7 +744663,7 @@
 		(end 125.1511 84.7316)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "f2411a23-972e-4c73-8474-253512e56003")
 	)
 	(segment
@@ -744835,7 +744835,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "ca3f90b0-cf6a-48be-9925-4e31eacf5ce2")
 	)
 	(via
@@ -745145,7 +745145,7 @@
 		(end 154.5261 72.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "02d68934-2bc3-41b2-8e3a-c44c7827c3b4")
 	)
 	(segment
@@ -745153,7 +745153,7 @@
 		(end 168.49755 69.6786)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "033fbcfe-cc0f-4d72-b9e5-d0089071b8ab")
 	)
 	(segment
@@ -745161,7 +745161,7 @@
 		(end 212.3711 88.0536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "0e6aa547-21d6-443e-8811-78db6306e0e5")
 	)
 	(segment
@@ -745169,7 +745169,7 @@
 		(end 209.2761 73.32505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "15fec1f3-b00d-4406-9727-c40a5585e0cc")
 	)
 	(segment
@@ -745177,7 +745177,7 @@
 		(end 209.2761 73.32505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "1c3894a0-6690-4924-949e-f4f025137d52")
 	)
 	(segment
@@ -745185,7 +745185,7 @@
 		(end 125.40711 86.7036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "4239d329-7eca-4c29-b507-9a56bc5863b1")
 	)
 	(segment
@@ -745193,7 +745193,7 @@
 		(end 122.81471 86.7036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "55c88e42-19ad-419f-b5b4-5d2a2c6a5ec4")
 	)
 	(segment
@@ -745201,7 +745201,7 @@
 		(end 155.7511 71.3286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "59a18dc4-8d89-4444-94ec-93c4ff425736")
 	)
 	(segment
@@ -745209,7 +745209,7 @@
 		(end 213.3811 87.0436)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "851fefe7-02d6-45bc-8534-c0f48d3a9d81")
 	)
 	(segment
@@ -745217,7 +745217,7 @@
 		(end 122.5511 86.06721)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "8ca077ef-4fd6-41a2-bd14-46bbde5440f7")
 	)
 	(segment
@@ -745225,7 +745225,7 @@
 		(end 129.97255 72.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "9b00421c-e6e1-492d-bef7-ae77806a8eaf")
 	)
 	(segment
@@ -745233,7 +745233,7 @@
 		(end 124.1511 78.37505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "a3a99c1e-7469-40c1-81a1-f6caba640e85")
 	)
 	(segment
@@ -745241,7 +745241,7 @@
 		(end 124.1511 84.46721)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "b7a91c86-c74d-49fc-ac40-be7e21776db1")
 	)
 	(segment
@@ -745249,7 +745249,7 @@
 		(end 210.00465 88.0536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "c9eb9407-27e9-4c21-b2ea-c3fd98ea95c1")
 	)
 	(segment
@@ -745257,7 +745257,7 @@
 		(end 205.62965 69.6786)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "cb36004a-cbc9-4b93-8e39-bee2ae63276f")
 	)
 	(segment
@@ -745265,7 +745265,7 @@
 		(end 125.86111 86.24959)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "dcf52364-fea2-4027-8dd1-b794ee75866f")
 	)
 	(segment
@@ -745273,7 +745273,7 @@
 		(end 166.84755 71.3286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCORE")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCORE_N")
 		(uuid "fa70c1ec-9e2a-45a4-a983-529863afff79")
 	)
 	(segment
@@ -746118,7 +746118,7 @@
 		(end 97.74611 84.6536)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "53bcc2c3-8113-4f34-9bf5-b8883ef63161")
 	)
 	(segment
@@ -746134,7 +746134,7 @@
 		(end 97.7441 87.09959)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "658c46dc-5805-434c-a4cf-3a05daacd61e")
 	)
 	(segment
@@ -746222,7 +746222,7 @@
 		(end 97.74611 85.6516)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "d6c82f3f-a425-4daa-8648-ae39b849a171")
 	)
 	(segment
@@ -746331,7 +746331,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "6c5ea58a-65bf-4b55-9a50-5f3de0c23c70")
 	)
 	(via
@@ -746648,7 +746648,7 @@
 		(end 147.46912 60.38203)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "11b998b9-15c6-4127-8680-2d2c6dbc46af")
 	)
 	(segment
@@ -746656,7 +746656,7 @@
 		(end 217.9261 74.30005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "4398378d-827c-4b28-9796-1d72e746b666")
 	)
 	(segment
@@ -746664,7 +746664,7 @@
 		(end 217.9261 89.13424)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "4adfbafe-0abc-490b-8fed-e6eec56c1db9")
 	)
 	(segment
@@ -746672,7 +746672,7 @@
 		(end 144.80539 60.38203)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "558d1e47-343a-425a-a098-c616a60f7d45")
 	)
 	(segment
@@ -746680,7 +746680,7 @@
 		(end 207.77965 64.1536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "6028922f-3213-498b-b723-61264d0102ec")
 	)
 	(segment
@@ -746688,7 +746688,7 @@
 		(end 111.72255 59.0286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "6ba92912-ce77-48d7-a7c5-03ec68754bc4")
 	)
 	(segment
@@ -746696,7 +746696,7 @@
 		(end 214.4811 90.6836)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "7a913af5-fda9-47ba-b3d5-72386e397167")
 	)
 	(segment
@@ -746704,7 +746704,7 @@
 		(end 143.45197 59.0286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "97998559-bfbb-469b-9a03-cf3f9aecad3e")
 	)
 	(segment
@@ -746712,7 +746712,7 @@
 		(end 149.09755 58.7536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "9dc6bdbc-33ec-457d-af99-cdcfb1770af2")
 	)
 	(segment
@@ -746720,7 +746720,7 @@
 		(end 99.7761 70.97505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "a2061648-afa6-4d67-87f1-799cfa6cae13")
 	)
 	(segment
@@ -746728,7 +746728,7 @@
 		(end 98.3511 86.6036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "a927257b-13c7-4f9a-8261-a52b8fde22a2")
 	)
 	(segment
@@ -746736,7 +746736,7 @@
 		(end 97.85511 87.09959)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "add81ccb-5944-4276-af65-93c844511af3")
 	)
 	(segment
@@ -746744,7 +746744,7 @@
 		(end 99.7761 84.05005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "be50c52c-339e-4000-a564-720f705bc592")
 	)
 	(segment
@@ -746752,7 +746752,7 @@
 		(end 171.72965 64.1536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "c37a4914-2df3-4b51-8f64-e31ca1f0b927")
 	)
 	(segment
@@ -746760,7 +746760,7 @@
 		(end 217.9261 74.30005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "d36955b8-f85f-4162-9e59-9236a2a46a8a")
 	)
 	(segment
@@ -746768,7 +746768,7 @@
 		(end 98.3511 85.47505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "db8ddb44-f05e-47a9-9660-6aa864f909d9")
 	)
 	(segment
@@ -746776,7 +746776,7 @@
 		(end 216.37674 90.6836)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "fb8da6ba-d5f1-4792-af9e-3f35607b5245")
 	)
 	(segment
@@ -746784,7 +746784,7 @@
 		(end 166.32965 58.7536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDCPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDCPU_N")
 		(uuid "fcbf15ef-157f-4f60-9c4f-0b63d22b4d0f")
 	)
 	(segment
@@ -751237,7 +751237,7 @@
 		(end 127.98612 99.22459)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "09f3bb23-5bab-4649-b4ff-31c32d1d6db8")
 	)
 	(segment
@@ -751277,7 +751277,7 @@
 		(end 127.25611 97.7266)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "2035c81f-5597-402f-a8ab-d3cd00291d79")
 	)
 	(segment
@@ -751365,7 +751365,7 @@
 		(end 127.6261 96.7786)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "40933835-4191-477e-acb1-df6a7310ca32")
 	)
 	(segment
@@ -751429,7 +751429,7 @@
 		(end 127.2761 97.1286)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "5957cd7d-47c8-49d6-af1e-97be7551f379")
 	)
 	(segment
@@ -751445,7 +751445,7 @@
 		(end 127.25611 97.7766)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "64e4d699-6772-42c8-aff0-d87663f4b0c3")
 	)
 	(segment
@@ -752097,7 +752097,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "b9c39cda-de8a-4bf8-9943-dd81c428d6b7")
 	)
 	(via
@@ -752511,7 +752511,7 @@
 		(end 128.8511 84.44465)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "01d91e4b-e6ad-4dca-8f3c-98a0a6c49274")
 	)
 	(segment
@@ -752527,7 +752527,7 @@
 		(end 128.8511 91.80005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "111de1c9-a01c-4a45-87db-f36e0c79e095")
 	)
 	(segment
@@ -752543,7 +752543,7 @@
 		(end 128.3011 83.3536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "16f9a31f-64c8-48c6-8352-fbf6cfa6b576")
 	)
 	(segment
@@ -752559,7 +752559,7 @@
 		(end 167.62255 72.1036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "19cc6502-65ad-4721-ad53-0a9671e0c3f6")
 	)
 	(segment
@@ -752575,7 +752575,7 @@
 		(end 128.8511 84.44465)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "202899eb-d4b5-4422-a8e9-724d4a542e8a")
 	)
 	(segment
@@ -752583,7 +752583,7 @@
 		(end 156.22255 72.1036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "2221f949-aa20-4add-ac8b-b337734fbc6f")
 	)
 	(segment
@@ -752623,7 +752623,7 @@
 		(end 131.59755 73.2536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "3f2e827a-49f1-40a2-8bf4-beb2d6a55926")
 	)
 	(segment
@@ -752631,7 +752631,7 @@
 		(end 125.2511 95.40005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "48399fc2-8626-48c7-8cf7-414c11f40fef")
 	)
 	(segment
@@ -752639,7 +752639,7 @@
 		(end 125.2511 98.51721)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "533366da-1344-4648-8fbe-0f40629409a6")
 	)
 	(segment
@@ -752647,7 +752647,7 @@
 		(end 155.07255 73.2536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "5a2f85cb-a5c3-4ecd-9eaa-cffa3073fc95")
 	)
 	(segment
@@ -752655,7 +752655,7 @@
 		(end 205.67652 71.3536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "5dac7276-1250-4480-9c46-a8bbd1a675af")
 	)
 	(segment
@@ -752663,7 +752663,7 @@
 		(end 213.3811 92.1236)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "64356391-e45a-4572-93ac-63ae5fa8f2ea")
 	)
 	(segment
@@ -752679,7 +752679,7 @@
 		(end 127.48211 99.7286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "86f616ba-cb93-4aff-8873-455cb024c137")
 	)
 	(segment
@@ -752687,7 +752687,7 @@
 		(end 128.3011 76.55005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "8901eb92-0e20-4ca5-87d1-a222cc896b37")
 	)
 	(segment
@@ -752695,7 +752695,7 @@
 		(end 124.67611 99.09221)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "a76a42ab-737a-49aa-96a7-c264c6939910")
 	)
 	(segment
@@ -752767,7 +752767,7 @@
 		(end 211.34611 92.1236)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "cbf4a977-5e1f-4ebb-86a6-e514ba8dfbe6")
 	)
 	(segment
@@ -752807,7 +752807,7 @@
 		(end 168.37255 71.3536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "dd11b3c7-3788-4bf6-bc56-c289c5bb440c")
 	)
 	(segment
@@ -752831,7 +752831,7 @@
 		(end 208.0761 73.75319)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "ee4ff50d-429c-4bb9-90aa-badd5a7e1e35")
 	)
 	(segment
@@ -752847,7 +752847,7 @@
 		(end 124.93971 99.7286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "f3348b17-f667-4b86-b89e-26ca863ecbf7")
 	)
 	(segment
@@ -752855,7 +752855,7 @@
 		(end 208.0761 73.75319)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "f3ab3df7-3ea7-498e-ae20-37e4ea58b427")
 	)
 	(segment
@@ -752879,7 +752879,7 @@
 		(end 128.3011 92.35005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "fd6eb348-16ef-4e10-84ac-a81da97a0f13")
 	)
 	(segment
@@ -752887,7 +752887,7 @@
 		(end 127.98612 99.22459)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDIO")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDIO_N")
 		(uuid "fd9034c3-cf39-4675-890d-fddd7b38e5fd")
 	)
 	(segment
@@ -753535,7 +753535,7 @@
 		(end 97.62611 89.5266)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "1a1eff2e-73aa-419d-9608-df7884cf74b2")
 	)
 	(segment
@@ -754079,7 +754079,7 @@
 		(end 97.6241 88.79659)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "7938a1bc-bf4b-4eab-9e26-c4c827551d65")
 	)
 	(segment
@@ -754423,7 +754423,7 @@
 		(end 96.17611 89.5266)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "ad52d230-a1bb-49f4-8ea4-04968ca92a81")
 	)
 	(segment
@@ -755452,7 +755452,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "b5f84446-c00a-442d-b38a-71f2bb561a5d")
 	)
 	(via
@@ -756148,7 +756148,7 @@
 		(end 101.92255 89.9536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "17b1adbb-6810-4dee-bfcd-672a00c3c602")
 	)
 	(segment
@@ -756156,7 +756156,7 @@
 		(end 129.2511 68.8286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "1f179c81-17c0-41cf-8cce-0a9433074a6d")
 	)
 	(segment
@@ -756164,7 +756164,7 @@
 		(end 213.3811 79.4236)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "23a88953-bcf0-40b0-91e6-dbfb2b73f4fa")
 	)
 	(segment
@@ -756172,7 +756172,7 @@
 		(end 115.42255 86.6036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "2fb918a7-2237-4333-b017-c3d5151368fc")
 	)
 	(segment
@@ -756180,7 +756180,7 @@
 		(end 164.02255 68.8286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "48232435-7f4a-413b-a3ec-910369aad97e")
 	)
 	(segment
@@ -756188,7 +756188,7 @@
 		(end 97.6241 88.79659)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "494ae2fa-0f23-4a60-98a5-ad6dfbeeae29")
 	)
 	(segment
@@ -756196,7 +756196,7 @@
 		(end 116.2761 85.75005)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "566f8e39-eee4-45f9-93b1-d50b35c91340")
 	)
 	(segment
@@ -756204,7 +756204,7 @@
 		(end 211.0761 72.47505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "645244dc-f316-45a7-bf8a-ac7e6258d7e6")
 	)
 	(segment
@@ -756212,7 +756212,7 @@
 		(end 211.59965 80.2986)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "656c1631-66b1-4a5f-8281-a96fcdccd1f8")
 	)
 	(segment
@@ -756220,7 +756220,7 @@
 		(end 105.27255 86.6036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "787d271a-749f-4cf3-9c29-e1cfa1301d70")
 	)
 	(segment
@@ -756228,7 +756228,7 @@
 		(end 212.5061 80.2986)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "7963faed-4cd3-4614-a168-9498d5120c57")
 	)
 	(segment
@@ -756236,7 +756236,7 @@
 		(end 116.2761 81.8036)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "95adda98-fb20-486d-a817-a9604b33753a")
 	)
 	(segment
@@ -756244,7 +756244,7 @@
 		(end 205.97965 67.3786)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "97d13dc4-6f0c-4060-b97f-e63fa1fbe53b")
 	)
 	(segment
@@ -756252,7 +756252,7 @@
 		(end 211.0761 72.47505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "bc4bcb00-03e2-45db-852c-3e78399535ba")
 	)
 	(segment
@@ -756260,7 +756260,7 @@
 		(end 165.47255 67.3786)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "c01f1f8a-e719-4ba2-94f5-281b433f4aa2")
 	)
 	(segment
@@ -756268,7 +756268,7 @@
 		(end 98.2011 89.9536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDD_DDR")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDD_DDR_N")
 		(uuid "f45dd9aa-2dd1-44ec-92b9-34a1b34a4217")
 	)
 	(segment
@@ -757008,7 +757008,7 @@
 		(end 127.38611 92.22459)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "d5688ad7-4e04-4258-a306-232274f9d11f")
 	)
 	(segment
@@ -757016,7 +757016,7 @@
 		(end 126.6761 89.7786)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "d63100e5-4713-4b67-bbf1-e0693d816c7b")
 	)
 	(segment
@@ -757056,7 +757056,7 @@
 		(end 126.65611 90.7266)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "f7b3da1c-c7a7-4535-a774-0bed8affab48")
 	)
 	(segment
@@ -757261,7 +757261,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "e3b2b610-eec8-424e-a0eb-d088cf22ef0c")
 	)
 	(via
@@ -757506,7 +757506,7 @@
 		(end 127.38611 92.22459)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "1b44a2cd-8ff3-43f4-9ad9-32b64646b7e6")
 	)
 	(segment
@@ -757514,7 +757514,7 @@
 		(end 213.3811 81.9636)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "35dab592-aeb1-4a4f-99e0-dc2c9a76c1b7")
 	)
 	(segment
@@ -757522,7 +757522,7 @@
 		(end 210.6861 81.9636)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "4c6d936a-b2ae-4bdc-94fc-42b727495baf")
 	)
 	(segment
@@ -757530,7 +757530,7 @@
 		(end 123.2011 77.12505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "52d1c99c-e9aa-4640-b827-94b81a8421c4")
 	)
 	(segment
@@ -757538,7 +757538,7 @@
 		(end 124.07611 89.28215)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "58afb1cf-a3b0-472d-9beb-cf287ec86ea9")
 	)
 	(segment
@@ -757546,7 +757546,7 @@
 		(end 124.33971 92.7286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "63677eab-9c5c-4726-874c-6490fac7710b")
 	)
 	(segment
@@ -757554,7 +757554,7 @@
 		(end 126.8821 92.7286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "6853d130-8d9b-4c68-89b1-5bffc359c5bd")
 	)
 	(segment
@@ -757562,7 +757562,7 @@
 		(end 123.2011 83.92505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "6db106e4-7fc0-4a76-9b42-2766da696ad3")
 	)
 	(segment
@@ -757570,7 +757570,7 @@
 		(end 210.2011 72.92505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "7358a869-da04-4fd0-ba57-daf82671cdf8")
 	)
 	(segment
@@ -757578,7 +757578,7 @@
 		(end 121.72376 85.40239)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "8c8f7830-dc55-4969-9cec-247ce59cf011")
 	)
 	(segment
@@ -757586,7 +757586,7 @@
 		(end 124.07611 89.28215)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "a3168739-49fa-4452-9736-44fff5be4541")
 	)
 	(segment
@@ -757594,7 +757594,7 @@
 		(end 130.67255 69.6536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "a8779141-ace1-49ff-a745-d341a9a7486f")
 	)
 	(segment
@@ -757602,7 +757602,7 @@
 		(end 168.67255 68.1286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "abc7f38e-a65e-4f46-9da2-8a20900a2db4")
 	)
 	(segment
@@ -757610,7 +757610,7 @@
 		(end 205.40465 68.1286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "ceb0da58-36a2-4670-a6fd-3af432d006d6")
 	)
 	(segment
@@ -757618,7 +757618,7 @@
 		(end 167.14755 69.6536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "f0b242a3-be11-4c1a-8d1e-a3625baa2ea0")
 	)
 	(segment
@@ -757626,7 +757626,7 @@
 		(end 210.2011 72.92505)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "VDDGPU")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_VDDGPU_N")
 		(uuid "fd06a89e-a701-4f60-a14d-0301ea9e7098")
 	)
 	(segment
@@ -759246,7 +759246,7 @@
 		(end 113.35611 83.2286)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "5aa2e43e-4a77-407e-9c22-d865b000d433")
 	)
 	(segment
@@ -759294,7 +759294,7 @@
 		(end 113.35611 84.2266)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "73bfba54-d36a-4f1e-8482-7fc372f43c17")
 	)
 	(segment
@@ -759310,7 +759310,7 @@
 		(end 114.08612 85.67459)
 		(width 0.64)
 		(layer "F.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "7826a70f-41a6-47d6-98ab-5f1203411887")
 	)
 	(segment
@@ -759654,7 +759654,7 @@
 			(front yes)
 			(back yes)
 		)
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "aaa03061-2d30-436b-a634-15ea1c8cbe9a")
 	)
 	(via
@@ -760130,7 +760130,7 @@
 		(end 113.24709 85.67459)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "23c118aa-48c5-447e-a02f-e1bede9d86de")
 	)
 	(segment
@@ -760138,7 +760138,7 @@
 		(end 170.5261 65.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "30c33f97-7f0b-4f60-b3da-55d0a739a1d1")
 	)
 	(segment
@@ -760146,7 +760146,7 @@
 		(end 114.08612 85.67459)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "6410a75c-5f37-4232-9b8a-d615e9b42f04")
 	)
 	(segment
@@ -760154,7 +760154,7 @@
 		(end 112.6511 66.0536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "705901f4-d98c-4d29-9321-aff619008875")
 	)
 	(segment
@@ -760162,7 +760162,7 @@
 		(end 214.4761 75.7886)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "71c382a1-529b-4900-91a8-1ba39d0425be")
 	)
 	(segment
@@ -760170,7 +760170,7 @@
 		(end 167.6011 62.6286)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "78987e76-ffaa-43a2-90d2-f6a0706a4541")
 	)
 	(segment
@@ -760178,7 +760178,7 @@
 		(end 166.5261 61.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "a00116cb-0eb6-480c-a5c5-1ac165d04947")
 	)
 	(segment
@@ -760186,7 +760186,7 @@
 		(end 206.8761 65.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "a739e095-3df1-4127-bf10-e45d586f31b2")
 	)
 	(segment
@@ -760194,7 +760194,7 @@
 		(end 214.4761 73.1536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "b2e76d53-7faf-4ce1-9086-7a31225f4d30")
 	)
 	(segment
@@ -760202,7 +760202,7 @@
 		(end 117.1511 61.5536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "c2e09e41-9d11-4af6-a74c-884c7ae9b5d5")
 	)
 	(segment
@@ -760210,7 +760210,7 @@
 		(end 214.4761 73.1536)
 		(width 0.15)
 		(layer "In2.Cu")
-		(net "1V8")
+		(net "/U_MB1936-TOP/U_Power_PMIC/I_SENS_1V8_N")
 		(uuid "c7466a26-6644-4786-a9f4-4433b76bd0a0")
 	)
 	(segment
