@@ -55681,6 +55681,26 @@
 					(variant
 						(name "MP257F_X")
 						(field
+							(name "ALTIUM_VALUE")
+							(value "NX1612SA 40MHz")
+						)
+						(field
+							(name "COMPONENTLINK1URL")
+							(value "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Crytal_Oscillator/NDK_NX1612SA_Series/")
+						)
+						(field
+							(name "Description")
+							(value "Crystal, 40MHz, 6pF, +/-20ppm, 80R, 1.6x1.2mm")
+						)
+						(field
+							(name "INTERNAL_PART_NUMBER")
+							(value "MCD-02344")
+						)
+						(field
+							(name "MANUFACTURER_PART_NUMBER")
+							(value "NX1612SA 40.000MHz EXS00A-CS13836")
+						)
+						(field
 							(name "Value")
 							(value "XTAL_4_PINS")
 						)
