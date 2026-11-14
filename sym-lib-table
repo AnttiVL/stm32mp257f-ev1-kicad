@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MB1936-altium-import") (type "KiCad") (uri "${KIPRJMOD}/MB1936-altium-import.kicad_sym") (options "") (descr ""))
+	(lib (name "MCD_PARTS_database") (type "KiCad") (uri "${KIPRJMOD}/MCD_PARTS_database.kicad_sym") (options "") (descr ""))
+	(lib (name "MCD_Temp_LBE") (type "KiCad") (uri "${KIPRJMOD}/MCD_Temp_LBE.kicad_sym") (options "") (descr ""))
+)
