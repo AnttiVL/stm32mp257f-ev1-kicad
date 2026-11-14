@@ -10659,24 +10659,6 @@
 		(uuid "585a54e2-7bc0-42e8-8484-f09305df020b")
 	)
 	(bus_entry
-		(at 58.42 72.39)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80ee72e4-9860-4f37-b528-2b0005ea20c6")
-	)
-	(bus_entry
-		(at 58.42 82.55)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b29d309-5fca-4067-a762-e724a344622a")
-	)
-	(bus_entry
 		(at 58.42 77.47)
 		(size -2.54 -2.54)
 		(stroke

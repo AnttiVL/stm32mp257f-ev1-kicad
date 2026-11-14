@@ -31448,6 +31448,53 @@
 		)
 	)
 	(sheet
+		(at 76.2 121.92)
+		(size 50.8 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 128 0 0 1)
+		)
+		(fill
+			(color 128 255 128 1)
+		)
+		(uuid "4f27b49d-e33e-4658-bba0-dec58769de17")
+		(property "Sheetname" "U_Power_flags"
+			(at 76.2 119.38 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_flags.kicad_sch"
+			(at 76.2 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(instances
+			(project "MB1936"
+				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 279.4 77.47)
 		(size 50.8 7.62)
 		(exclude_from_sim no)

@@ -13460,15 +13460,6 @@
 		(uuid "0dd21b2a-60aa-43eb-824e-9bde2b536286")
 	)
 	(bus_entry
-		(at 40.64 146.05)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f4fc71e-da5a-46da-a25c-59b7ab1a4438")
-	)
-	(bus_entry
 		(at 345.44 39.37)
 		(size -2.54 -2.54)
 		(stroke
@@ -13712,15 +13703,6 @@
 		(uuid "6188a3b8-be0c-41c1-9f5e-9a609aab2cf5")
 	)
 	(bus_entry
-		(at 40.64 135.89)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "631a2610-4c61-40bc-9b39-270b99345a13")
-	)
-	(bus_entry
 		(at 121.92 36.83)
 		(size -2.54 -2.54)
 		(stroke
@@ -13773,15 +13755,6 @@
 			(type default)
 		)
 		(uuid "730d4367-58e9-4f2a-b636-c28e205ca2d8")
-	)
-	(bus_entry
-		(at 121.92 31.75)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b99824b-5d86-4679-b2c8-fd4683bc1cd1")
 	)
 	(bus_entry
 		(at 43.18 34.29)
@@ -13901,15 +13874,6 @@
 		(uuid "9a769e96-7624-4e13-a684-d720df8458fd")
 	)
 	(bus_entry
-		(at 40.64 209.55)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aebe68f-3480-4cc0-a45d-687efa437cf6")
-	)
-	(bus_entry
 		(at 345.44 161.29)
 		(size -2.54 -2.54)
 		(stroke
@@ -13953,24 +13917,6 @@
 			(type default)
 		)
 		(uuid "aba7ad9f-fa0f-49ae-b555-1bfab2676ef5")
-	)
-	(bus_entry
-		(at 40.64 219.71)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b532e2c8-86a6-4379-9486-0074404552b3")
-	)
-	(bus_entry
-		(at 43.18 31.75)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b99359be-40e3-451b-b68d-fb9d8eaaa86e")
 	)
 	(bus_entry
 		(at 345.44 252.73)
@@ -14081,15 +14027,6 @@
 		(uuid "d44cb30f-ed32-4aba-8a80-27d7064da477")
 	)
 	(bus_entry
-		(at 40.64 189.23)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4da56c6-0601-4756-ac88-0871e9e92a3f")
-	)
-	(bus_entry
 		(at 345.44 201.93)
 		(size -2.54 -2.54)
 		(stroke
@@ -14142,15 +14079,6 @@
 			(type default)
 		)
 		(uuid "dd69abf2-58ba-4a4d-b72c-e0192eed4a51")
-	)
-	(bus_entry
-		(at 195.58 31.75)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df5bb987-faca-4cd1-aa53-1d184fc1ccb6")
 	)
 	(bus_entry
 		(at 345.44 250.19)
@@ -14223,15 +14151,6 @@
 			(type default)
 		)
 		(uuid "ea1d36eb-4844-4dac-9f12-58647d610f02")
-	)
-	(bus_entry
-		(at 40.64 179.07)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f090ba54-23da-44d4-937c-3e25b3a9c4a5")
 	)
 	(bus_entry
 		(at 345.44 247.65)
@@ -15015,16 +14934,6 @@
 		)
 		(uuid "1ec2de7c-6e31-4b73-aa86-28b7bfb77dac")
 	)
-	(bus
-		(pts
-			(xy 40.64 222.25) (xy 40.64 219.71)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "1f1d6a09-01a6-45fc-be3e-94bb61fcd51d")
-	)
 	(wire
 		(pts
 			(xy 154.94 77.47) (xy 175.26 77.47)
@@ -15176,16 +15085,6 @@
 			(color 173 188 231 1)
 		)
 		(uuid "28b68dd2-7faa-4183-bb0f-3735a5902b85")
-	)
-	(bus
-		(pts
-			(xy 38.1 222.25) (xy 40.64 222.25)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "29591b07-5dc6-461e-9a2c-bc4597c2dc88")
 	)
 	(wire
 		(pts
@@ -15366,6 +15265,17 @@
 			(type default)
 		)
 		(uuid "36bf91d2-0ab1-4f7c-ac9d-5a467521c6d3")
+	)
+	(bus
+		(pts
+			(xy 35.56 212.09) (xy 35.56 222.25)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 173 188 231 1)
+		)
+		(uuid "37f31bc9-3167-47dd-85ad-fd49c88e29a1")
 	)
 	(wire
 		(pts
@@ -16914,6 +16824,17 @@
 		)
 		(uuid "95b51f0a-1239-41b8-9946-f610823ef7ea")
 	)
+	(bus
+		(pts
+			(xy 25.4 212.09) (xy 35.56 212.09)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 173 188 231 1)
+		)
+		(uuid "963e382c-0cda-48e5-ab25-51d36ecfe4db")
+	)
 	(wire
 		(pts
 			(xy 218.44 118.11) (xy 198.12 118.11)
@@ -18195,6 +18116,17 @@
 			(type default)
 		)
 		(uuid "e3aa2011-7eef-43f7-adfd-b0d245baf420")
+	)
+	(bus
+		(pts
+			(xy 35.56 222.25) (xy 38.1 222.25)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 173 188 231 1)
+		)
+		(uuid "e477425b-fc1e-425d-b02a-96a415d8222b")
 	)
 	(wire
 		(pts
@@ -49696,16 +49628,6 @@
 		)
 		(uuid "a79adce7-297c-4a74-bb19-a4043cd28d4b")
 	)
-	(label ""
-		(at 86.36 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7cfc165-568e-4676-a195-61e167cd0cd0")
-	)
 	(label "CAM_RESET"
 		(at 86.36 166.37 0)
 		(effects
@@ -49746,7 +49668,7 @@
 		)
 		(uuid "afc8a403-19cd-471d-bdc7-607e1556fae0")
 	)
-	(label "{ETH3.RXD[0..3]{ETH3}}"
+	(label "ETH3.RXD[0..3]"
 		(at 43.18 219.71 0)
 		(effects
 			(font

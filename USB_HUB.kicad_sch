@@ -3875,7 +3875,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin power_out line
 					(at -7.62 -111.76 0)
 					(length 7.62)
 					(name "CRFILT"
@@ -4235,7 +4235,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin power_out line
 					(at -7.62 -109.22 0)
 					(length 7.62)
 					(name "PLLFILT"

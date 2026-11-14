@@ -1824,15 +1824,6 @@
 		(uuid "41969129-1052-4ac0-89d4-c3f99a1d3fe9")
 	)
 	(bus_entry
-		(at 43.18 64.77)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b626450-c5c1-4fcd-af54-53f050d23322")
-	)
-	(bus_entry
 		(at 149.86 115.57)
 		(size 2.54 -2.54)
 		(stroke

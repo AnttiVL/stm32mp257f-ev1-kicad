@@ -2293,6 +2293,10 @@
     [
       "c0603f7b-1309-4861-923b-cf7f35a8d79c",
       "U_STLINK_V3EC"
+    ],
+    [
+      "4f27b49d-e33e-4658-bba0-dec58769de17",
+      "U_Power_flags"
     ]
   ],
   "text_variables": {

@@ -11849,15 +11849,6 @@
 		(uuid "098941f5-b8b0-4c66-9af9-d0b932233568")
 	)
 	(bus_entry
-		(at 45.72 74.93)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "111ad343-f177-47bd-bcba-76762e550b4c")
-	)
-	(bus_entry
 		(at 45.72 80.01)
 		(size -2.54 -2.54)
 		(stroke
@@ -11892,15 +11883,6 @@
 			(type default)
 		)
 		(uuid "7dcc0eb9-9899-4f0f-8f51-cf57ac278ea1")
-	)
-	(bus_entry
-		(at 45.72 64.77)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f3950d1-da4b-467a-afb5-1541cc79098b")
 	)
 	(bus_entry
 		(at 45.72 57.15)
