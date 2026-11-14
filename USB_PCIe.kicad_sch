@@ -67037,6 +67037,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -69716,6 +69722,12 @@
 					(unit 1)
 					(variant
 						(name "MP257F_X")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
+					(variant
+						(name "MP257F_X_OSC")
 						(dnp yes)
 						(in_bom no)
 						(in_pos_files no)
@@ -75599,6 +75611,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -78477,6 +78495,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -79148,6 +79172,12 @@
 					(unit 1)
 					(variant
 						(name "MP257F_X")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
+					(variant
+						(name "MP257F_X_OSC")
 						(dnp yes)
 						(in_bom no)
 						(in_pos_files no)
@@ -86742,6 +86772,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -87018,6 +87054,12 @@
 					(unit 1)
 					(variant
 						(name "MP257F_X")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
+					(variant
+						(name "MP257F_X_OSC")
 						(dnp yes)
 						(in_bom no)
 						(in_pos_files no)
@@ -89340,6 +89382,12 @@
 					(unit 1)
 					(variant
 						(name "MP257F_X")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
+					(variant
+						(name "MP257F_X_OSC")
 						(dnp yes)
 						(in_bom no)
 						(in_pos_files no)

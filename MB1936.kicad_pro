@@ -2214,6 +2214,10 @@
     "variants": [
       {
         "name": "MP257F_X"
+      },
+      {
+        "description": "Not an ST build: MP257F_X with the 40 MHz oscillator (NZ1612SH) on X2 instead of the crystal",
+        "name": "MP257F_X_OSC"
       }
     ]
   },

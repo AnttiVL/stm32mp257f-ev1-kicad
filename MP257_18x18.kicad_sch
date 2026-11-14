@@ -65356,6 +65356,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -66165,6 +66171,12 @@
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470"
 					(reference "R75")
 					(unit 1)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)
@@ -67060,6 +67072,12 @@
 				(path "/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470"
 					(reference "C92")
 					(unit 1)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)

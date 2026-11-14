@@ -42310,6 +42310,12 @@
 						(in_bom no)
 						(in_pos_files no)
 					)
+					(variant
+						(name "MP257F_X_OSC")
+						(dnp yes)
+						(in_bom no)
+						(in_pos_files no)
+					)
 				)
 			)
 		)

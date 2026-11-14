@@ -225,6 +225,10 @@
 		(variant
 			(name "MP257F_X")
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(description "Not an ST build: MP257F_X with the 40 MHz oscillator (NZ1612SH) on X2 instead of the crystal")
+		)
 	)
 	(footprint "MB1936-import-fps:CON_TE-CONNECTIVITY_2041119-1_HALF-CARD"
 		(layer "F.Cu")
@@ -61965,6 +61969,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "MB1936-import-fps:C0402"
@@ -64680,6 +64690,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -65254,6 +65270,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -67127,6 +67149,12 @@
 			(pintype "passive")
 			(solder_mask_margin 0.05)
 			(uuid "f990402d-e23d-417c-aa32-714f0bf26332")
+		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
 		)
 		(embedded_fonts no)
 		(embedded_files
@@ -91956,6 +91984,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -97962,6 +97996,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -105188,6 +105228,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -138768,6 +138814,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -146455,6 +146507,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -154354,6 +154412,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -160338,6 +160402,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -197533,6 +197603,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -205170,6 +205246,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -233490,6 +233572,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -235734,6 +235822,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -244134,6 +244228,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -260281,6 +260381,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -264503,6 +264609,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -267850,6 +267962,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -287351,6 +287469,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -297266,6 +297390,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -347324,6 +347454,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -347923,6 +348059,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -353893,6 +354035,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -363354,6 +363502,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -369614,6 +369768,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -388414,6 +388574,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -389626,6 +389792,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -396913,6 +397085,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -408826,6 +409004,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -409498,6 +409682,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -413005,6 +413195,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -418868,6 +419064,12 @@
 			(solder_mask_margin 0.05)
 			(zone_connect 0)
 			(uuid "1c3c8b0a-c895-4f65-905e-bb1936edda7f")
+		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
 		)
 		(embedded_fonts no)
 		(embedded_files
@@ -426545,6 +426747,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -464100,6 +464308,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -474141,6 +474355,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -485486,6 +485706,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -583886,6 +584112,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -585086,6 +585318,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -613585,6 +613823,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -634072,6 +634316,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -639638,6 +639888,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
@@ -648810,6 +649066,12 @@
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
 		)
+		(variant
+			(name "MP257F_X_OSC")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
 		(embedded_fonts no)
 		(embedded_files
 			(file
@@ -655664,6 +655926,12 @@
 		)
 		(variant
 			(name "MP257F_X")
+			(dnp yes)
+			(exclude_from_bom yes)
+			(exclude_from_pos_files yes)
+		)
+		(variant
+			(name "MP257F_X_OSC")
 			(dnp yes)
 			(exclude_from_bom yes)
 			(exclude_from_pos_files yes)
