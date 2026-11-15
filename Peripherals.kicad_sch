@@ -900,7 +900,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "*C0402*"
+			(property "ki_fp_filters" "*C0201_H0P3* *C0201_H0P5* *C0201_MURATA_GRM033_H0P3* *C0402* *C0603* *C0805* *C0805_H0P85* *C1206_H1P6*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3931,7 +3931,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "*R0402*"
+			(property "ki_fp_filters" "*R0201_H0P23* *R0402* *R0603* *R0805*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
