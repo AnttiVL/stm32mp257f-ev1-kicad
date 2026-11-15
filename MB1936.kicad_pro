@@ -331,6 +331,306 @@
   "erc": {
     "erc_exclusions": [
       [
+        "endpoint_off_grid|688340|342900|91b460c5-7b50-4d23-8d99-2a9ff0a0a4be|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: imported wire end 0.254 mm off the 1.27 mm grid. The connection is correct."
+      ],
+      [
+        "endpoint_off_grid|688340|368300|d26e3d8f-ff91-4190-a100-4d0de241ba27|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: imported wire end 0.254 mm off the 1.27 mm grid. The connection is correct."
+      ],
+      [
+        "endpoint_off_grid|688340|393700|3b76e52c-dbe6-42a6-9717-26ec36b9e299|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: imported wire end 0.254 mm off the 1.27 mm grid. The connection is correct."
+      ],
+      [
+        "footprint_link_issues|254000|2832100|c5e4b50c-ecca-4d88-a410-3089b1e2aaaf|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: BOM-only part, not on the board. ST footprint name has no footprint in this project."
+      ],
+      [
+        "footprint_link_issues|3403600|241300|3ca360f5-a9fa-44d5-bf14-51ee043c6234|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: BOM-only part, not on the board. ST footprint name has no footprint in this project."
+      ],
+      [
+        "footprint_link_issues|3632200|241300|078c7933-c047-4270-b4a4-6508b0281a06|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: BOM-only part, not on the board. ST footprint name has no footprint in this project."
+      ],
+      [
+        "footprint_link_issues|635000|2832100|da334ff9-5bd2-4719-ba0b-63e175a4eb43|00000000-0000-0000-0000-000000000000|||",
+        "Reviewed 2026-11-15: BOM-only part, not on the board. ST footprint name has no footprint in this project."
+      ],
+      [
+        "multiple_net_names|1625600|342900|88a1e4e5-ed37-4ece-b72f-e29804900c02|b7bb6279-a60e-43c7-88c3-a002d0f364ef|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|177800|355600|f6d25791-f9f3-4661-8be0-977af469a20f|d120f524-7134-43e1-9a2c-7e31079e9b4c|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|177800|647700|b98b1f2c-e2e3-4e23-844a-0c874c7df8b7|591c1ab7-925f-4f7f-9167-108bbb192a56|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|1930400|1803400|849133b6-9e52-4893-b3ed-c82e24862560|d6dba829-f324-4966-bd4b-f16d72a674c1|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|228600|2514600|cf7f535e-1bf2-4d38-9b52-53b7ba3fe45a|5a5ebd5a-7b2c-436e-93bf-313bed2574c2|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|228600|2667000|2ad14a28-d0eb-4a97-840e-7cb2cff8206f|df869d87-0d08-4e7e-aa33-8b05f618713c|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|254000|393700|10b751e6-823d-44b9-9b1d-f512b22bf19b|94181579-c9cc-4388-a099-bcf0f73f0ae8|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|279400|1435100|ef6bb773-31bc-4016-ae85-5c6c6d2900d8|765e9226-0508-4315-a82a-a7b4766b8c10|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|304800|469900|3307761d-e2fa-4135-ba50-75b77b08cc8b|df145f9c-1fab-40fd-937e-550fc1b52265|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|3149600|1104900|fa1518b2-3d54-4eba-9e41-3611a2b12495|b93935c1-0aaa-431f-9eb1-d6c3f2217181|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|3225800|368300|96e794ae-b33b-48d8-9f30-f10e988db644|b46c2f66-1caa-4641-b791-007591033f29|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|406400|774700|fb0d54e0-18eb-436f-bf9e-6b802979978b|d3f2eb88-aa48-4d9c-9ab1-b8b62e8d729b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|406400|850900|2851241a-7d20-47a0-954f-b63c82f174dd|9379a4cf-44db-464d-bf29-57d6d5dd8cb3|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670",
+        "Reviewed 2026-11-15: harness bus with both a plain {X} label and its port label X{X} (Altium import). Same signals; changing it would rename nets on the board."
+      ],
+      [
+        "multiple_net_names|889000|901700|e3c5a118-4859-4ebf-b39c-a1ceda3f9c0b|c1ad336f-dcab-4340-bb66-85acaf17b4ba|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787",
+        "Reviewed 2026-11-15: this net has two names in ST schematic. KiCad uses the first one in the netlist."
+      ],
+      [
+        "multiple_net_names|889000|927100|56072682-ab95-4521-90d7-a880686b8c1e|b6f4210e-745d-4211-8cce-3e7514bdee14|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/cdf6cffd-15fe-496f-b091-e0505c2f7787",
+        "Reviewed 2026-11-15: this net has two names in ST schematic. KiCad uses the first one in the netlist."
+      ],
+      [
+        "net_not_bus_member|1955800|342900|8126a7f3-53c4-42db-bf86-d074df35eeb4|52faac62-2673-4ac2-aa32-6f740fe5df7a|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|1955800|368300|2f7fad52-0e4f-49ca-9c3b-4b1bfdf97777|52faac62-2673-4ac2-aa32-6f740fe5df7a|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|1955800|368300|2f7fad52-0e4f-49ca-9c3b-4b1bfdf97777|b8817821-b454-4f3e-af43-cfe3eb4cf9d1|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3352800|1079500|f454ae60-50f2-4e45-b569-1d6da81afa20|b3e48c57-110b-47f3-912b-ef284c76ece5|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3352800|1104900|94432564-1b43-432d-8d30-76f86faa96fc|b3e48c57-110b-47f3-912b-ef284c76ece5|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3352800|1130300|903678a4-d096-403e-810a-712afcf94bc3|b3e48c57-110b-47f3-912b-ef284c76ece5|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3352800|1130300|903678a4-d096-403e-810a-712afcf94bc3|b3e9543f-cef5-4e9d-b1fc-a9b20b9fceef|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|317500|06c8b250-6649-42f8-91c1-03135c31512d|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|342900|9657a187-b701-41bf-a523-ed134961bd65|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|368300|d9bf34ff-cade-4c7e-bb9f-0a67b809fa3b|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|393700|15933669-dd51-46cf-8cb9-6158bd36fbbb|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|419100|cebf956b-6b1b-42b7-9c77-419c76f88271|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|444500|e93c30ad-19e5-47d8-91ce-83f8d1268c4e|4ae2b1b0-4dbf-4dc9-bcbd-b2d8216f03b9|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|3454400|444500|e93c30ad-19e5-47d8-91ce-83f8d1268c4e|e8d75a44-4ff4-4edb-a821-867d92311658|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|431800|2628900|c251006d-6c78-4a07-ab65-046e6fe6f4df|d5b309e7-0f7e-40aa-a39e-a96e768167e8|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|431800|342900|7d0a0eb1-f29e-4009-b09b-011c35525a94|58461166-5b23-440e-abd6-e5d4f915361d|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|431800|368300|a3c5fec5-4723-4ef1-b2b2-ad1514bc421e|58461166-5b23-440e-abd6-e5d4f915361d|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|431800|393700|ea1d36eb-4844-4dac-9f12-58647d610f02|1b3eb733-a7dc-460d-9240-21307c68bee8|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|431800|393700|ea1d36eb-4844-4dac-9f12-58647d610f02|58461166-5b23-440e-abd6-e5d4f915361d|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|368300|be370489-416f-4581-9c6b-ce6dd9c7612d|4b0a7af8-7e94-4fb6-b085-76fa5ac73b62|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|393700|bb102763-e828-41c2-8c9e-db914d32754a|4b0a7af8-7e94-4fb6-b085-76fa5ac73b62|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|419100|65d0a4cd-2eea-498d-a883-8a4e0af77cec|4b0a7af8-7e94-4fb6-b085-76fa5ac73b62|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|419100|65d0a4cd-2eea-498d-a883-8a4e0af77cec|e8e35fa7-46e9-4b71-b55a-13eaddf95310|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/427a5bec-8719-4e1b-bd7a-4a197ec8a4c6||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|469900|72f1d755-3ec6-4d33-a364-ccbdf144f891|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|495300|d4beb77e-6536-44b0-a9d4-aacd470fa33c|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|546100|b338cfcd-53ab-4e01-a995-d0baf194d6aa|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|571500|a24dd298-522f-4049-af9a-51c0016991ec|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|596900|ce5a0f22-4231-4d91-996f-56c195fd0745|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|673100|7dcc0eb9-9899-4f0f-8f51-cf57ac278ea1|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|698500|510cab21-faa6-4afc-b8b1-2af97ccdc2b9|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|774700|098941f5-b8b0-4c66-9af9-d0b932233568|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|800100|4b19e807-f1e0-4e23-be33-d6d145bb95b4|5985a996-d013-45a1-9f64-95d88db94054|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|457200|800100|4b19e807-f1e0-4e23-be33-d6d145bb95b4|efdf1d89-37e6-41b1-99c7-5c74d71b3954|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/53cca9da-9b85-42ae-b9d8-1b75a3a3b78a||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1384300|0bac4ac1-99b3-4e8d-bc6d-db715620f07b|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1409700|8a54148b-c770-4b15-b565-a38043960aea|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1435100|e4bb2277-c2ba-4a73-a1d3-c180fd4463f5|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1460500|a8c285d0-9e72-4876-92a2-298d98a5c83c|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1485900|fe59055c-5119-45b2-8e0e-267b3e76de40|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1511300|9ab0ffc1-1daa-4dc9-be47-e2f1f51817a7|31f7023b-f74d-4d26-85dc-a41f68831175|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|482600|1511300|9ab0ffc1-1daa-4dc9-be47-e2f1f51817a7|7acd2c26-1167-4ff0-a810-e804dee419b8|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|508000|444500|9c9eccbd-f4ea-438d-b994-4cb5d2f09635|65fadd83-e70d-40de-9c32-23a440bc51b3|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/42687140-747d-4079-9df6-3f2e6c152e11||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|673100|585a54e2-7bc0-42e8-8484-f09305df020b|d3747f8d-bed0-4250-9c48-c8754f01cb47|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|749300|32a0b21f-fb1f-4803-abe3-4b3ed9168e1e|c74caa5f-b38d-4c1c-9af5-55e0c1b8e10b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|749300|e68de4fc-6180-4d7c-b3bf-b04c8dc4dc17|d3747f8d-bed0-4250-9c48-c8754f01cb47|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|774700|9e2376cf-7638-44e9-b5f7-30497736f314|d3747f8d-bed0-4250-9c48-c8754f01cb47|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|825500|04b0f3e8-2109-40a2-ba33-95c438f49a75|c74caa5f-b38d-4c1c-9af5-55e0c1b8e10b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|850900|01782a7d-37d3-4652-a93e-2c1a50b65f3e|d3747f8d-bed0-4250-9c48-c8754f01cb47|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|850900|e4f6836a-ecc7-4542-94e5-7b2e59f8078d|c74caa5f-b38d-4c1c-9af5-55e0c1b8e10b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|876300|c768258d-767f-40bc-b0d1-9f1060c0e328|cec073ad-275b-4a10-90af-97649b4eafb0|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|876300|c768258d-767f-40bc-b0d1-9f1060c0e328|d3747f8d-bed0-4250-9c48-c8754f01cb47|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/2941717a-0c28-4695-91e2-4be19dc144f0||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|927100|b6517e36-cdcd-406f-afd2-c8a607636de2|c74caa5f-b38d-4c1c-9af5-55e0c1b8e10b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|952500|cfb35e48-c01c-4d4d-8112-4d2372330841|a15f6b8c-709e-418b-9cd9-05460df649eb|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
+        "net_not_bus_member|584200|952500|cfb35e48-c01c-4d4d-8112-4d2372330841|c74caa5f-b38d-4c1c-9af5-55e0c1b8e10b|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/49802379-23a6-4fcc-909a-17d265759670||",
+        "Reviewed 2026-11-15: harness net named with its port prefix while the bus is named by the plain {X} label (Altium import). The net connects correctly."
+      ],
+      [
         "unconnected_wire_endpoint|1016000|1003300|4e34a72f-2c60-483b-98c8-10272e48fb21|00000000-0000-0000-0000-000000000000|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/e38bc3f0-7edc-41f7-ac04-8d96db9b0005||",
         "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
       ],

@@ -31538,7 +31538,7 @@
 		)
 		(uuid "92371179-258a-43c4-bf98-650b568de6e1")
 	)
-	(label "{QSPI}"
+	(label "QSPI1{QSPI}"
 		(at 22.86 67.31 0)
 		(effects
 			(font

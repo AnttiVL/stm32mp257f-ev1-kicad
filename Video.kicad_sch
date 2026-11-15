@@ -46949,7 +46949,7 @@
 		)
 		(uuid "65086c13-a664-40b8-9109-235aaf2d9de1")
 	)
-	(label "{PERIPH_I2C}"
+	(label "PERIPH_I2C{PERIPH_I2C}"
 		(at 30.48 127 180)
 		(effects
 			(font
@@ -47099,7 +47099,7 @@
 		)
 		(uuid "872ad0c0-d71a-4c97-98ca-bf68158541ee")
 	)
-	(label "{HDMI_I2S}"
+	(label "HDMI_I2S{HDMI_I2S}"
 		(at 33.02 163.83 0)
 		(effects
 			(font

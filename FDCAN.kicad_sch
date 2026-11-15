@@ -33502,7 +33502,7 @@
 			"AAAASUVORK5CYII="
 		)
 	)
-	(label "{FDCAN2}"
+	(label "FDCAN2{FDCAN2}"
 		(at 35.56 123.19 180)
 		(effects
 			(font
@@ -33512,7 +33512,7 @@
 		)
 		(uuid "23d27e8d-7459-415c-943c-f551dce35f81")
 	)
-	(label "{FDCAN1}"
+	(label "FDCAN1{FDCAN1}"
 		(at 35.56 57.15 180)
 		(effects
 			(font
