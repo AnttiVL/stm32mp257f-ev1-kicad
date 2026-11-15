@@ -37042,12 +37042,12 @@
 	)
 	(global_label "BUTTON.USER2"
 		(shape bidirectional)
-		(at 5.08 148.59 0)
+		(at 5.08 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "216584c7-4a0e-4a84-a070-4f0b20dd03af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -37059,6 +37059,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 	)
@@ -37086,12 +37087,12 @@
 	)
 	(global_label "BUTTON.USER1"
 		(shape bidirectional)
-		(at 71.12 148.59 0)
+		(at 71.12 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "95ed9b4c-8bed-4af9-bb9f-be7e105d9893")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -37103,6 +37104,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 	)

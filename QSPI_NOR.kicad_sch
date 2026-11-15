@@ -1705,7 +1705,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 97.79) (xy 127 97.79)
+			(xy 149.86 97.79) (xy 129.54 97.79)
 		)
 		(stroke
 			(width 0)
@@ -31622,12 +31622,12 @@
 	)
 	(global_label "QSPI1.NCS1"
 		(shape bidirectional)
-		(at 129.54 97.79 0)
+		(at 129.54 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "99b8afd2-0b75-42c1-82d1-db73fd95bc1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -31639,6 +31639,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 	)
