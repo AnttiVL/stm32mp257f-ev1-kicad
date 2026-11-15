@@ -36372,16 +36372,6 @@
 		)
 		(uuid "eef1f4be-82bd-48b9-8258-31eb419af1d5")
 	)
-	(label "{ETH1}"
-		(at 43.18 77.47 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fb0d54e0-18eb-436f-bf9e-6b802979978b")
-	)
 	(hierarchical_label "ETH1.NRST"
 		(shape input)
 		(at 101.6 240.03 180)

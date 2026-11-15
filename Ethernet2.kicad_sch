@@ -36315,16 +36315,6 @@
 		)
 		(uuid "b76ef1d8-f8cb-48c5-9a90-c748aac2f312")
 	)
-	(label "{ETH2}"
-		(at 22.86 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b98b1f2c-e2e3-4e23-844a-0c874c7df8b7")
-	)
 	(label "ETH2.RX_CTL"
 		(at 7.62 143.51 0)
 		(effects

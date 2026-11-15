@@ -34485,26 +34485,6 @@
 		)
 		(uuid "7a1e3c85-6993-4482-a9e2-2f2ae7956d87")
 	)
-	(label "mkB{mikroBUS}"
-		(at 73.66 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ba05f10a-12ec-400a-941a-ab0fa24df552")
-	)
-	(label "GPIO{GPIO}"
-		(at 73.66 229.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e5273f8e-7ac5-4396-80d1-39706b5bd124")
-	)
 	(label "EXP_GPIO22"
 		(at 182.88 229.87 0)
 		(effects

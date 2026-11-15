@@ -36314,16 +36314,6 @@
 		)
 		(uuid "1eb6c160-bb9e-4b63-8cc0-e780d0b267e4")
 	)
-	(label "{ETH3}"
-		(at 43.18 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2851241a-7d20-47a0-954f-b63c82f174dd")
-	)
 	(label "ETH3.MDINT"
 		(at 20.32 222.25 0)
 		(effects

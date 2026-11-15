@@ -46949,16 +46949,6 @@
 		)
 		(uuid "65086c13-a664-40b8-9109-235aaf2d9de1")
 	)
-	(label "PERIPH_I2C{PERIPH_I2C}"
-		(at 30.48 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "67074f66-56e0-4855-a040-d7c664b4ac60")
-	)
 	(label "DSI.D2_N"
 		(at 68.58 97.79 0)
 		(effects
@@ -47098,16 +47088,6 @@
 			(justify left bottom)
 		)
 		(uuid "872ad0c0-d71a-4c97-98ca-bf68158541ee")
-	)
-	(label "HDMI_I2S{HDMI_I2S}"
-		(at 33.02 163.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "884a8404-0d65-4673-bd4b-ccb8dafba4e7")
 	)
 	(label "CSI.D1_P"
 		(at 81.28 222.25 0)
@@ -47498,16 +47478,6 @@
 			(justify left bottom)
 		)
 		(uuid "ef4ec490-f13f-438c-a125-78da89612fc4")
-	)
-	(label "{DISP}"
-		(at 27.94 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ef6bb773-31bc-4016-ae85-5c6c6d2900d8")
 	)
 	(label "CSI.CKcon_N"
 		(at 203.2 227.33 0)

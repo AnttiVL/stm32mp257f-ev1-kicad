@@ -45949,16 +45949,6 @@
 		)
 		(uuid "0cb4ad1c-c072-4349-859f-d17a350e4a1f")
 	)
-	(label "ETH2{ETH2}"
-		(at 25.4 179.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0cb79652-c15d-4630-9ff3-a3fa92d4ffdd")
-	)
 	(label "ETH2.GTX_CLK"
 		(at 43.18 184.15 0)
 		(effects
@@ -46129,16 +46119,6 @@
 		)
 		(uuid "21405c2c-25b6-421b-af84-c0fa494b554f")
 	)
-	(label "mkB{mikroBUS}"
-		(at 322.58 252.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2315c2b7-07ce-4bc0-adad-808a981a0b06")
-	)
 	(label "ETH2.NRST"
 		(at 269.24 69.85 0)
 		(effects
@@ -46208,16 +46188,6 @@
 			(justify left bottom)
 		)
 		(uuid "2a5f6e9f-b634-4683-b314-d0559ce5ead6")
-	)
-	(label "{BUTTON}"
-		(at 25.4 266.7 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2ad14a28-d0eb-4a97-840e-7cb2cff8206f")
 	)
 	(label "QSPI1.IO0"
 		(at 157.48 107.95 0)
@@ -46379,16 +46349,6 @@
 		)
 		(uuid "385675eb-3239-4272-b0f1-c3cd86d70008")
 	)
-	(label "ETH1{ETH1}"
-		(at 25.4 140.97 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3d6d4356-187e-4f20-aa2f-90d2e9114d0b")
-	)
 	(label "JTDI"
 		(at 266.7 34.29 0)
 		(effects
@@ -46438,16 +46398,6 @@
 			(justify left bottom)
 		)
 		(uuid "4404d0c3-e93a-4f19-a34d-b8a052b0ffc7")
-	)
-	(label "HDMI_I2S{HDMI_I2S}"
-		(at 322.58 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4496f68b-af14-4c25-b02e-863a094603b0")
 	)
 	(label "ETH2.RX_CLK"
 		(at 198.12 113.03 0)
@@ -46989,16 +46939,6 @@
 		)
 		(uuid "87cf2b4f-5793-4e61-a571-c3e89006ca3a")
 	)
-	(label "{eMMC}"
-		(at 167.64 34.29 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "88a1e4e5-ed37-4ece-b72f-e29804900c02")
-	)
 	(label "ETH3.TXD1"
 		(at 86.36 72.39 0)
 		(effects
@@ -47139,16 +47079,6 @@
 		)
 		(uuid "967de0bc-1ee9-494f-a712-ebef34e69352")
 	)
-	(label "{DISP}"
-		(at 322.58 36.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "96e794ae-b33b-48d8-9f30-f10e988db644")
-	)
 	(label "PCIE.CLKREQN"
 		(at 86.36 191.77 0)
 		(effects
@@ -47258,16 +47188,6 @@
 			(justify left bottom)
 		)
 		(uuid "a48208eb-bada-4b30-bd2f-8c2aa36a6b55")
-	)
-	(label "GPIO{GPIO}"
-		(at 322.58 179.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a49f00e8-fd46-440e-8ad6-32cc9c555c34")
 	)
 	(label "ETH3.GTX_CLK"
 		(at 43.18 214.63 0)
@@ -47408,16 +47328,6 @@
 			(justify left bottom)
 		)
 		(uuid "b3a83c41-b1b6-47ab-955e-d3a2182865cf")
-	)
-	(label "PERIPH_I2C{PERIPH_I2C}"
-		(at 243.84 274.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b3b5a527-2991-4c1a-85d8-42d4d5acaaba")
 	)
 	(label "TOF_LPn"
 		(at 269.24 72.39 0)
@@ -47809,16 +47719,6 @@
 		)
 		(uuid "d7bb98fa-e34b-4b55-8bea-7405f1b8b29c")
 	)
-	(label "QSPI1{QSPI}"
-		(at 101.6 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "db23682a-cda4-4d6e-845c-348451a735fa")
-	)
 	(label "QSPI1.CLK"
 		(at 124.46 34.29 0)
 		(effects
@@ -47828,16 +47728,6 @@
 			(justify left bottom)
 		)
 		(uuid "db6f8ed4-bc90-4453-bcd1-348144c4cd48")
-	)
-	(label "FDCAN1{FDCAN1}"
-		(at 25.4 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "db7770b1-b658-40ed-ae5b-af5c34e33221")
 	)
 	(label "ETH2.MDC"
 		(at 43.18 173.99 0)
@@ -47938,16 +47828,6 @@
 			(justify left bottom)
 		)
 		(uuid "e30382cf-fb84-49bc-aace-8401a31e70ba")
-	)
-	(label "FDCAN2{FDCAN2}"
-		(at 25.4 77.47 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e3366704-b281-4af1-b0ae-88e014eacd5e")
 	)
 	(label "eMMC.SDMMC2_D4"
 		(at 198.12 80.01 0)
@@ -48079,16 +47959,6 @@
 		)
 		(uuid "f48ffd9b-6704-439a-8a44-4621d1f6675c")
 	)
-	(label "{SD}"
-		(at 20.574 35.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f6d25791-f9f3-4661-8be0-977af469a20f")
-	)
 	(label "TOF_INT"
 		(at 86.36 153.67 0)
 		(effects
@@ -48108,16 +47978,6 @@
 			(justify left bottom)
 		)
 		(uuid "f7e7aff0-86ba-4a00-b425-0a929ed3a9ea")
-	)
-	(label "{PCIE}"
-		(at 317.5 110.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fa1518b2-3d54-4eba-9e41-3611a2b12495")
 	)
 	(label "JTDO_SWDO"
 		(at 228.6 234.95 0)

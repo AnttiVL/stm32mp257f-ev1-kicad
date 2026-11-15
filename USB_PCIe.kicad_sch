@@ -50815,16 +50815,6 @@
 		)
 		(uuid "0cd75630-4d16-42e7-9821-1a5e53757832")
 	)
-	(label "{PCIE}"
-		(at 27.94 39.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "10b751e6-823d-44b9-9b1d-f512b22bf19b")
-	)
 	(label "PCIE.RSTN"
 		(at 50.8 41.91 0)
 		(effects

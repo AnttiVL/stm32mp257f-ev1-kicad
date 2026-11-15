@@ -33502,26 +33502,6 @@
 			"AAAASUVORK5CYII="
 		)
 	)
-	(label "FDCAN2{FDCAN2}"
-		(at 35.56 123.19 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "23d27e8d-7459-415c-943c-f551dce35f81")
-	)
-	(label "FDCAN1{FDCAN1}"
-		(at 35.56 57.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f65500a5-53ae-4c67-a7e9-04829ffc136c")
-	)
 	(global_label "FDCAN1.TX"
 		(shape bidirectional)
 		(at 119.38 67.31 180)

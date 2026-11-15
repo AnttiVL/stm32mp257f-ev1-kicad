@@ -31538,16 +31538,6 @@
 		)
 		(uuid "92371179-258a-43c4-bf98-650b568de6e1")
 	)
-	(label "QSPI1{QSPI}"
-		(at 22.86 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "929a763d-9f2e-411c-872c-1570a64489b5")
-	)
 	(label "QSPI1.IO[0..3]"
 		(at 129.54 123.19 0)
 		(effects
