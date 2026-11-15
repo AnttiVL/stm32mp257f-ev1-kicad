@@ -1535,18 +1535,6 @@
         "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
       ],
       [
-        "unconnected_wire_endpoint|3683000|1511300|cb156008-c4b8-4dfb-b720-95d724b81c93|00000000-0000-0000-0000-000000000000|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
-        "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
-      ],
-      [
-        "unconnected_wire_endpoint|3683000|1536700|995a1fd6-935d-49cc-bf7b-302c2eb26bb0|00000000-0000-0000-0000-000000000000|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
-        "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
-      ],
-      [
-        "unconnected_wire_endpoint|3683000|1562100|e592ef8c-3c0d-4365-999c-04215f11f6bd|00000000-0000-0000-0000-000000000000|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
-        "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
-      ],
-      [
         "unconnected_wire_endpoint|3683000|2628900|7d913f84-a8a8-4b49-b183-1f4dc6820972|00000000-0000-0000-0000-000000000000|/2e6275cf-c277-4f70-8237-05b268c465ab/4f3cc38c-5d60-488e-aab1-9ef068f9c630/f94f2d55-6656-4169-a41d-0c69c91e3470||",
         "Reviewed 2026-11-15: the wire runs past its net label (ST drawing style). Connection is correct."
       ],
