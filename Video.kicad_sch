@@ -3798,7 +3798,7 @@
 					)
 				)
 				(text "VDDIO4"
-					(at 10.16 -63.5 900)
+					(at 9.553 -63.206 900)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3807,7 +3807,7 @@
 					)
 				)
 				(text "VSW"
-					(at 15.748 -36.576 900)
+					(at 17.668 -35.917 900)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3816,7 +3816,7 @@
 					)
 				)
 				(text "VDDIO3"
-					(at 25.4 -63.5 900)
+					(at 24.77 -63.206 900)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5028,7 +5028,7 @@
 					)
 				)
 				(text "VDDIO1"
-					(at 10.16 -12.7 900)
+					(at 9.384 -12.461 900)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5037,7 +5037,7 @@
 					)
 				)
 				(text "VDDIO2"
-					(at 10.16 -33.02 900)
+					(at 9.384 -32.759 900)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5046,7 +5046,7 @@
 					)
 				)
 				(text "VDDA18AON"
-					(at 32.004 -49.53 0)
+					(at 31.887 -51.223 0)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6197,7 +6197,7 @@
 					)
 				)
 				(text "VSW"
-					(at 6.096 -24.13 0)
+					(at 5.768 -23.212 0)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6206,7 +6206,7 @@
 					)
 				)
 				(text "VDDA18AON"
-					(at 31.242 -61.722 0)
+					(at 31.296 -63.301 0)
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -14830,7 +14830,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 161.29) (xy 48.26 161.29)
+			(xy 50.8 161.29) (xy 48.26 161.29)
 		)
 		(stroke
 			(width 0)
@@ -15182,7 +15182,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 128.27) (xy 63.5 128.27)
+			(xy 48.26 128.27) (xy 50.8 128.27)
 		)
 		(stroke
 			(width 0)
@@ -15202,7 +15202,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 163.83) (xy 48.26 163.83)
+			(xy 50.8 163.83) (xy 48.26 163.83)
 		)
 		(stroke
 			(width 0)
@@ -15212,7 +15212,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 105.41) (xy 154.94 105.41)
+			(xy 160.02 105.41) (xy 154.94 105.41)
 		)
 		(stroke
 			(width 0)
@@ -15644,7 +15644,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 110.49) (xy 154.94 110.49)
+			(xy 160.02 110.49) (xy 154.94 110.49)
 		)
 		(stroke
 			(width 0)
@@ -15664,7 +15664,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 166.37) (xy 48.26 166.37)
+			(xy 50.8 166.37) (xy 48.26 166.37)
 		)
 		(stroke
 			(width 0)
@@ -16467,7 +16467,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 125.73) (xy 63.5 125.73)
+			(xy 48.26 125.73) (xy 50.8 125.73)
 		)
 		(stroke
 			(width 0)
@@ -47536,7 +47536,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "01b21e58-3e31-4448-9279-5d50e9c85e26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47558,7 +47558,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "12ff3277-524e-4e19-ac02-6c7f6ce050f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47580,7 +47580,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "13afdec3-1ebe-4218-a5b2-dc729a0cc9c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47626,7 +47626,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "1eb87719-dd12-4573-88c6-bd434f9c2d90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47672,7 +47672,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "645ce89e-c425-4a24-913b-06e5f1f634ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47694,7 +47694,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "73d64608-91d2-4627-9dfa-343d4dbe386b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47716,7 +47716,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7cd86897-e7c3-4687-9f0b-4a9b134a09e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47738,7 +47738,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7d386bae-d24b-4deb-8a1b-753600fd0a91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47760,7 +47760,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "8463fa64-273a-47ea-a962-d3f56b5c1355")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47782,7 +47782,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "a0d32c2a-53a2-4ca2-90e7-90f3d9367683")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47804,7 +47804,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "a4bc2207-8b0a-4c4f-a4b1-38dc586155e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47826,7 +47826,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "b1df150b-a1e6-4a34-9bc4-42850c0db253")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47848,7 +47848,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "d6bea01d-f481-42ee-86b9-152619aaca12")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -47870,7 +47870,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "dbd0b9c0-74bf-47a7-aac5-902d0ba5bd7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"

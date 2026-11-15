@@ -6358,7 +6358,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 46.99) (xy 50.8 46.99)
+			(xy 53.34 46.99) (xy 50.8 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6943,7 +6943,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 49.53) (xy 50.8 49.53)
+			(xy 53.34 49.53) (xy 50.8 49.53)
 		)
 		(stroke
 			(width 0)
@@ -37025,7 +37025,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "1f6c14e0-6699-4098-bfe8-cb89091353fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -37047,7 +37047,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "216584c7-4a0e-4a84-a070-4f0b20dd03af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -37069,7 +37069,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "6628c33c-f8d6-42f6-a3cb-2554ea797461")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -37091,7 +37091,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "95ed9b4c-8bed-4af9-bb9f-be7e105d9893")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"

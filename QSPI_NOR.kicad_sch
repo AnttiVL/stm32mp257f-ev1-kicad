@@ -1757,7 +1757,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 69.85) (xy 63.5 69.85)
+			(xy 43.18 69.85) (xy 45.72 69.85)
 		)
 		(stroke
 			(width 0)
@@ -31605,7 +31605,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "28af1988-2ff0-41e2-ae1b-1bccb6b263a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -31627,7 +31627,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "99b8afd2-0b75-42c1-82d1-db73fd95bc1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"

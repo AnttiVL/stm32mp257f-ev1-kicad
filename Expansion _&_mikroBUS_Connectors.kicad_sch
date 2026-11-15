@@ -3592,7 +3592,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 201.93) (xy 119.38 201.93)
+			(xy 96.52 201.93) (xy 99.06 201.93)
 		)
 		(stroke
 			(width 0)
@@ -3623,7 +3623,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 214.63) (xy 119.38 214.63)
+			(xy 96.52 214.63) (xy 99.06 214.63)
 		)
 		(stroke
 			(width 0)
@@ -3653,7 +3653,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 52.07) (xy 127 52.07)
+			(xy 96.52 52.07) (xy 99.06 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3673,7 +3673,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 257.81) (xy 119.38 257.81)
+			(xy 96.52 257.81) (xy 99.06 257.81)
 		)
 		(stroke
 			(width 0)
@@ -3683,7 +3683,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 260.35) (xy 119.38 260.35)
+			(xy 96.52 260.35) (xy 99.06 260.35)
 		)
 		(stroke
 			(width 0)
@@ -3723,7 +3723,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 217.17) (xy 119.38 217.17)
+			(xy 96.52 217.17) (xy 99.06 217.17)
 		)
 		(stroke
 			(width 0)
@@ -3733,7 +3733,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 207.01) (xy 119.38 207.01)
+			(xy 96.52 207.01) (xy 99.06 207.01)
 		)
 		(stroke
 			(width 0)
@@ -3773,7 +3773,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 242.57) (xy 96.52 242.57)
+			(xy 99.06 242.57) (xy 96.52 242.57)
 		)
 		(stroke
 			(width 0)
@@ -3783,7 +3783,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 237.49) (xy 223.52 237.49)
+			(xy 228.6 237.49) (xy 223.52 237.49)
 		)
 		(stroke
 			(width 0)
@@ -3793,7 +3793,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 102.87) (xy 254 102.87)
+			(xy 226.06 102.87) (xy 241.3 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3813,7 +3813,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 59.69) (xy 127 59.69)
+			(xy 96.52 59.69) (xy 99.06 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3823,7 +3823,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 222.25) (xy 223.52 222.25)
+			(xy 228.6 222.25) (xy 223.52 222.25)
 		)
 		(stroke
 			(width 0)
@@ -3833,7 +3833,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 196.85) (xy 119.38 196.85)
+			(xy 96.52 196.85) (xy 99.06 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3843,7 +3843,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 212.09) (xy 119.38 212.09)
+			(xy 96.52 212.09) (xy 99.06 212.09)
 		)
 		(stroke
 			(width 0)
@@ -3875,7 +3875,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 100.33) (xy 254 100.33)
+			(xy 226.06 100.33) (xy 241.3 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3885,7 +3885,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 49.53) (xy 127 49.53)
+			(xy 96.52 49.53) (xy 99.06 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3916,7 +3916,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 69.85) (xy 127 69.85)
+			(xy 96.52 69.85) (xy 99.06 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3936,7 +3936,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 255.27) (xy 119.38 255.27)
+			(xy 96.52 255.27) (xy 99.06 255.27)
 		)
 		(stroke
 			(width 0)
@@ -3946,7 +3946,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 97.79) (xy 254 97.79)
+			(xy 226.06 97.79) (xy 241.3 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3966,7 +3966,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 240.03) (xy 119.38 240.03)
+			(xy 96.52 240.03) (xy 99.06 240.03)
 		)
 		(stroke
 			(width 0)
@@ -3996,7 +3996,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 209.55) (xy 119.38 209.55)
+			(xy 96.52 209.55) (xy 99.06 209.55)
 		)
 		(stroke
 			(width 0)
@@ -4027,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 227.33) (xy 119.38 227.33)
+			(xy 96.52 227.33) (xy 99.06 227.33)
 		)
 		(stroke
 			(width 0)
@@ -4068,7 +4068,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 224.79) (xy 119.38 224.79)
+			(xy 96.52 224.79) (xy 99.06 224.79)
 		)
 		(stroke
 			(width 0)
@@ -4098,7 +4098,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 247.65) (xy 96.52 247.65)
+			(xy 99.06 247.65) (xy 96.52 247.65)
 		)
 		(stroke
 			(width 0)
@@ -4108,7 +4108,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 224.79) (xy 223.52 224.79)
+			(xy 228.6 224.79) (xy 223.52 224.79)
 		)
 		(stroke
 			(width 0)
@@ -4128,7 +4128,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 232.41) (xy 223.52 232.41)
+			(xy 228.6 232.41) (xy 223.52 232.41)
 		)
 		(stroke
 			(width 0)
@@ -4138,7 +4138,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 62.23) (xy 127 62.23)
+			(xy 96.52 62.23) (xy 99.06 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4148,7 +4148,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 260.35) (xy 223.52 260.35)
+			(xy 228.6 260.35) (xy 223.52 260.35)
 		)
 		(stroke
 			(width 0)
@@ -4158,7 +4158,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 229.87) (xy 119.38 229.87)
+			(xy 96.52 229.87) (xy 99.06 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4168,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 64.77) (xy 127 64.77)
+			(xy 96.52 64.77) (xy 99.06 64.77)
 		)
 		(stroke
 			(width 0)
@@ -4199,7 +4199,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 242.57) (xy 223.52 242.57)
+			(xy 228.6 242.57) (xy 223.52 242.57)
 		)
 		(stroke
 			(width 0)
@@ -4219,7 +4219,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 105.41) (xy 254 105.41)
+			(xy 226.06 105.41) (xy 241.3 105.41)
 		)
 		(stroke
 			(width 0)
@@ -4260,7 +4260,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 57.15) (xy 127 57.15)
+			(xy 96.52 57.15) (xy 99.06 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4270,7 +4270,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 46.99) (xy 127 46.99)
+			(xy 96.52 46.99) (xy 99.06 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4280,7 +4280,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 265.43) (xy 119.38 265.43)
+			(xy 96.52 265.43) (xy 99.06 265.43)
 		)
 		(stroke
 			(width 0)
@@ -4351,7 +4351,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 199.39) (xy 119.38 199.39)
+			(xy 96.52 199.39) (xy 99.06 199.39)
 		)
 		(stroke
 			(width 0)
@@ -4361,7 +4361,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 250.19) (xy 96.52 250.19)
+			(xy 99.06 250.19) (xy 96.52 250.19)
 		)
 		(stroke
 			(width 0)
@@ -4413,7 +4413,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 240.03) (xy 223.52 240.03)
+			(xy 228.6 240.03) (xy 223.52 240.03)
 		)
 		(stroke
 			(width 0)
@@ -4443,7 +4443,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 219.71) (xy 119.38 219.71)
+			(xy 96.52 219.71) (xy 99.06 219.71)
 		)
 		(stroke
 			(width 0)
@@ -4473,7 +4473,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 67.31) (xy 127 67.31)
+			(xy 96.52 67.31) (xy 99.06 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4483,7 +4483,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 237.49) (xy 119.38 237.49)
+			(xy 96.52 237.49) (xy 99.06 237.49)
 		)
 		(stroke
 			(width 0)
@@ -4586,7 +4586,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 234.95) (xy 119.38 234.95)
+			(xy 96.52 234.95) (xy 99.06 234.95)
 		)
 		(stroke
 			(width 0)
@@ -4596,7 +4596,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 219.71) (xy 223.52 219.71)
+			(xy 228.6 219.71) (xy 223.52 219.71)
 		)
 		(stroke
 			(width 0)
@@ -4626,7 +4626,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 250.19) (xy 223.52 250.19)
+			(xy 228.6 250.19) (xy 223.52 250.19)
 		)
 		(stroke
 			(width 0)
@@ -4636,7 +4636,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 44.45) (xy 127 44.45)
+			(xy 96.52 44.45) (xy 99.06 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4646,7 +4646,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 54.61) (xy 127 54.61)
+			(xy 96.52 54.61) (xy 99.06 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4656,7 +4656,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 222.25) (xy 119.38 222.25)
+			(xy 96.52 222.25) (xy 99.06 222.25)
 		)
 		(stroke
 			(width 0)
@@ -4726,7 +4726,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 107.95) (xy 254 107.95)
+			(xy 226.06 107.95) (xy 241.3 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4756,7 +4756,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 255.27) (xy 223.52 255.27)
+			(xy 228.6 255.27) (xy 223.52 255.27)
 		)
 		(stroke
 			(width 0)
@@ -4776,7 +4776,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 245.11) (xy 223.52 245.11)
+			(xy 228.6 245.11) (xy 223.52 245.11)
 		)
 		(stroke
 			(width 0)
@@ -4786,7 +4786,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 110.49) (xy 254 110.49)
+			(xy 226.06 110.49) (xy 241.3 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4796,7 +4796,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 232.41) (xy 119.38 232.41)
+			(xy 96.52 232.41) (xy 99.06 232.41)
 		)
 		(stroke
 			(width 0)
@@ -4836,7 +4836,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 204.47) (xy 119.38 204.47)
+			(xy 96.52 204.47) (xy 99.06 204.47)
 		)
 		(stroke
 			(width 0)
@@ -4856,7 +4856,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 229.87) (xy 223.52 229.87)
+			(xy 228.6 229.87) (xy 223.52 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4888,7 +4888,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 262.89) (xy 119.38 262.89)
+			(xy 96.52 262.89) (xy 99.06 262.89)
 		)
 		(stroke
 			(width 0)
@@ -4898,7 +4898,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 257.81) (xy 223.52 257.81)
+			(xy 228.6 257.81) (xy 223.52 257.81)
 		)
 		(stroke
 			(width 0)
@@ -4940,7 +4940,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 72.39) (xy 127 72.39)
+			(xy 96.52 72.39) (xy 99.06 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4950,7 +4950,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 245.11) (xy 96.52 245.11)
+			(xy 99.06 245.11) (xy 96.52 245.11)
 		)
 		(stroke
 			(width 0)
@@ -34502,7 +34502,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "075410ff-7d0c-4573-9b21-3f98eea1e6a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34524,7 +34524,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "0e1c527d-d20d-4449-9b15-e91e0f031663")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34546,7 +34546,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "11c0298b-1939-4f62-b43d-8df5ba095f9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34568,7 +34568,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "17c70e02-aaa6-4e88-bc0a-b3a811effffd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34590,7 +34590,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "1dea5970-ee55-4662-a0e9-50530b504056")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34612,7 +34612,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "25112036-476b-4e17-8808-bdf7a1bd09dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34634,7 +34634,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "25b45559-0499-4932-97c6-fc016d5016b5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34656,7 +34656,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "28988c8d-a047-4d34-a5a0-0ab3bc9581d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34678,7 +34678,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "2a552a45-44d7-4754-8714-4b28cdf968f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34700,7 +34700,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "306774e2-1dc6-4bfd-ba75-dde98f1deb34")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34722,7 +34722,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "386cab55-0ef7-451e-b120-bd7a63587f21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34744,7 +34744,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "3b5523da-c3eb-4f2d-9bd2-d5cfcae7a2e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34766,7 +34766,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "3eeac813-d2e2-4d0c-801c-8e3307a98f92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34788,7 +34788,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "3ff4e5eb-e687-4796-8c8f-22239952e0d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34810,7 +34810,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "429d904c-bf2d-4a1d-a17c-241cb53c3486")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34832,7 +34832,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "497badb0-36f5-4742-af34-be2958c30b25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34854,7 +34854,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "4c77c43f-ee41-44ac-88db-82902c7ba9eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34876,7 +34876,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "4d6405a6-aca2-44a6-a8f9-76042d2a4059")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34898,7 +34898,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "4e5cfc3a-7b3c-4b3d-88c6-02b87fbd10aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34920,7 +34920,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "4e61ff00-2a58-4efb-a9fe-f9626ea629e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34942,7 +34942,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "51ef4dcf-9d60-43c9-9b4a-551caa81c498")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34964,7 +34964,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "5247e0fb-450c-4dda-9ba6-7ee2cad2901b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -34986,7 +34986,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "555f7260-750a-42f7-b7db-305cc3d690f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35008,7 +35008,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "564e9e23-cbc2-4095-996e-d26dfd394a3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35030,7 +35030,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "5b155331-b76d-4aa3-b9b4-3d97e98d9dee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35052,7 +35052,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "5be22971-8f41-4aff-a395-2647e93e2b43")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35074,7 +35074,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "5d7bb896-2523-4437-b8e0-a6762a931c76")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35096,7 +35096,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "600ed175-d155-4be2-b113-6a4a09b9c565")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35118,7 +35118,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "632b26b3-0d09-43b4-ad1d-f5fcc9c4c2f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35140,7 +35140,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "696e5599-1c66-465c-ab1a-16367b1c0bcf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35162,7 +35162,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "6ab66310-7f6d-4e91-be42-74970b9f283b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35184,7 +35184,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "6bb5cdff-18a2-48ec-b7ec-85fa21d98f9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35206,7 +35206,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "6ea80614-6587-4b42-be06-bf2ee9877a60")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35228,7 +35228,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "739619cd-e421-4457-a93b-3566dec800e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35250,7 +35250,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7613d526-3a72-4e3b-924f-51a36b3fe83e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35272,7 +35272,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "79542a47-73cc-4546-8cd4-d23dff0f64d2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35294,7 +35294,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7ba6038d-786e-4617-ac78-d956314d0d4f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35316,7 +35316,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7d438020-2262-4e46-b3b6-6bd973af53e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35338,7 +35338,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7d611b03-fa57-486c-bf91-72fecbf3bd2a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35360,7 +35360,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7e81db07-8085-4019-9d34-43c457d7bde1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35382,7 +35382,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7e9d219e-7ca6-4cf5-b5d3-c01a79bc928d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35404,7 +35404,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "7ef68975-0a80-418a-a129-228bf327cea5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35426,7 +35426,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "88094b58-469f-4c5d-be2e-ddf703a47dc8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35448,7 +35448,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "8d970ac9-cdf0-4f14-9736-266c26d11fb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35470,7 +35470,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "954ae647-ebae-447a-a03c-7baa64f59e1c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35492,7 +35492,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "97165c71-97c5-4d19-964a-055e388e52e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35514,7 +35514,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "97a66064-b05d-4b73-bb54-e36d80eaafcf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35536,7 +35536,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "9d8723ea-41f2-456d-850e-345c09bf378d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35558,7 +35558,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "a5abdd6e-01bc-4a47-8a55-f3a74ab5f2f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35580,7 +35580,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "a61e7f87-3c01-4087-b8bd-385c44a3519e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35602,7 +35602,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "a62579cd-a4d3-4201-a76f-e2051e72a188")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35624,7 +35624,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "ab086fbe-7eb4-4743-94b6-8eb483ca7c75")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35646,7 +35646,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "aebc003f-5006-4922-99fc-c848042f5151")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35668,7 +35668,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "af8cc26b-f47f-43ad-9179-d0a98903c3ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35690,7 +35690,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "b5481dd3-1e0a-4da1-948a-6fd5b2907bc3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35712,7 +35712,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "bb920573-ec25-4d30-839a-a639b64de144")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35734,7 +35734,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "bc2b6ab4-0088-46e4-86cb-9af8112c8546")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35756,7 +35756,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "bd25a90a-42c3-4543-bd47-57ba3b67d1bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35802,7 +35802,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "c2b9e015-e929-4baa-9b67-05a1c32c483e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35824,7 +35824,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "c4bdb48d-8740-4e02-abd3-f75ad75b2eaa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35846,7 +35846,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "c54a02e4-5960-4d68-8eee-8be2ec1c6e26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35868,7 +35868,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "c8414d0c-2d66-4c4e-948f-e55a490427bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35890,7 +35890,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "ccc989e0-fc79-41c2-92b1-65ea2e7042ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35912,7 +35912,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "cea2f1b8-6cbe-40cb-bd61-722cf854006a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35934,7 +35934,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "d2b7b9db-6b31-45e5-bf1d-ec9a07d316c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35956,7 +35956,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "d7c65f11-3423-4612-b0f3-a5f4ae9801bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -35978,7 +35978,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "e4720a25-76a9-4332-98fe-f827eee73163")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36000,7 +36000,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "e6a7c6aa-f10a-4698-860b-b9b69db89369")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36022,7 +36022,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "e9ba9570-af62-4237-abd2-117405562d0e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36044,7 +36044,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "e9ef2184-7173-40b2-8ad5-4a5c4aa1b63a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36066,7 +36066,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "eb404fbd-35f5-4c93-9c1f-ecf7d8a95b83")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36088,7 +36088,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "efb6e171-dbf2-4534-bfac-aa4f7841089f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36110,7 +36110,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "f0342020-93dd-4add-a246-98c272dceb3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36132,7 +36132,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "f729f3bb-e896-4e8f-b709-94ec06f82cc4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36154,7 +36154,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "f8bf19ff-2fed-4da3-9e62-c988d313205a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36176,7 +36176,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "fbe82462-a37d-47e5-9b1d-12a7b45d4ff7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36198,7 +36198,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "fc04f9f0-628f-47cb-b832-65faf582520e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
@@ -36220,7 +36220,7 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
 		(uuid "ffbc6ef9-e722-4dae-bd17-fd60c41cfc45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
