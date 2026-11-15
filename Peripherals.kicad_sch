@@ -37072,30 +37072,6 @@
 			)
 		)
 	)
-	(global_label "BUTTON.USER1"
-		(shape bidirectional)
-		(at 88.9 151.13 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "24bf7db7-2db9-4a14-93fe-df6396d44c4c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.9 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "BUTTON.USER2"
 		(shape bidirectional)
 		(at 53.34 49.53 0)
@@ -37137,30 +37113,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-	)
-	(global_label "BUTTON.USER2"
-		(shape bidirectional)
-		(at 22.86 151.13 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f43d94ee-00df-4254-8a4c-9355cbbfe244")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.86 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)

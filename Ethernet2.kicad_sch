@@ -4055,6 +4055,7 @@
 		(effects
 			(font
 				(size 1.778 1.778)
+				(color 0 0 0 1)
 			)
 			(justify left top)
 		)
@@ -4077,6 +4078,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 0 0 1)
 			)
 			(justify left top)
 		)
