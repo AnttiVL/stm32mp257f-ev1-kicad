@@ -51723,6 +51723,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 105.41 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -51787,7 +51788,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -51867,7 +51868,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -52362,6 +52363,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 62.23 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52426,7 +52428,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -52668,13 +52670,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 314.96 247.65 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -53125,7 +53128,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -53205,7 +53208,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -54227,7 +54230,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -54295,7 +54298,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -54536,7 +54539,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -54616,7 +54619,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -55315,7 +55318,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -55395,7 +55398,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -56003,7 +56006,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -56071,7 +56074,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Checked"
@@ -56900,7 +56903,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -57142,13 +57145,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 294.64 57.15 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -57581,7 +57585,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -57649,7 +57653,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -58679,7 +58683,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -58759,7 +58763,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9142278"
@@ -59012,7 +59016,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -59080,7 +59084,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -59321,7 +59325,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -59389,7 +59393,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -59856,7 +59860,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -60098,13 +60102,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 292.1 118.11 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -60586,7 +60591,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -60666,7 +60671,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -61315,7 +61320,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -61557,13 +61562,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 165.1 217.17 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -61621,7 +61627,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -61701,7 +61707,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -62561,7 +62567,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -62803,13 +62809,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 152.4 224.79 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -63258,6 +63265,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 67.31 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -63322,7 +63330,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -63390,7 +63398,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -63898,7 +63906,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -64140,13 +64148,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 292.1 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -65346,7 +65355,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -65426,7 +65435,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -66137,7 +66146,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -66205,7 +66214,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -66854,7 +66863,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -66922,7 +66931,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -68024,7 +68033,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "LED_blue"
@@ -68104,7 +68113,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -68309,7 +68318,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -68389,7 +68398,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -69004,7 +69013,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -69072,7 +69081,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -69697,7 +69706,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -69765,7 +69774,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -72202,7 +72211,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -72270,7 +72279,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -72753,6 +72762,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 69.85 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -74392,7 +74402,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -74460,7 +74470,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -75106,7 +75116,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -75186,7 +75196,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -75760,7 +75770,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -76002,13 +76012,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 294.64 59.69 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"
@@ -76375,7 +76386,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -76443,7 +76454,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -76878,6 +76889,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 314.96 236.982 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -76942,7 +76954,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -77010,7 +77022,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -77600,7 +77612,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -77668,7 +77680,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131778"
@@ -78127,6 +78139,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 64.77 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -78191,7 +78204,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -78271,7 +78284,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -78830,6 +78843,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 77.47 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79441,7 +79455,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "LED_green"
@@ -79521,7 +79535,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -79875,7 +79889,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -79943,7 +79957,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -80773,6 +80787,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 345.44 72.39 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -80988,7 +81003,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -81056,7 +81071,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -81297,7 +81312,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -81539,13 +81554,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 152.4 227.33 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ID" "2518"

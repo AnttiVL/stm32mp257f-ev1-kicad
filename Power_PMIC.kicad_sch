@@ -9692,7 +9692,7 @@
 	)
 	(text "670mV/ 820mV"
 		(exclude_from_sim no)
-		(at 241.3 72.39 0)
+		(at 241.3 75.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9736,7 +9736,7 @@
 	)
 	(text "3V3"
 		(exclude_from_sim no)
-		(at 233.68 102.87 0)
+		(at 233.68 105.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9769,7 +9769,7 @@
 	)
 	(text "0V6"
 		(exclude_from_sim no)
-		(at 241.3 189.23 0)
+		(at 241.3 192.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9804,7 +9804,7 @@
 	)
 	(text "0V6"
 		(exclude_from_sim no)
-		(at 246.38 166.37 0)
+		(at 246.38 169.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9837,7 +9837,7 @@
 	)
 	(text "1V8"
 		(exclude_from_sim no)
-		(at 274.32 120.65 0)
+		(at 274.32 123.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9980,7 +9980,7 @@
 	)
 	(text "1V2"
 		(exclude_from_sim no)
-		(at 271.78 151.13 0)
+		(at 271.78 153.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10002,7 +10002,7 @@
 	)
 	(text "3V3"
 		(exclude_from_sim no)
-		(at 195.58 237.49 0)
+		(at 195.58 240.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10035,7 +10035,7 @@
 	)
 	(text "670mV/ 800mV/ 910mV"
 		(exclude_from_sim no)
-		(at 292.1 57.15 0)
+		(at 292.1 59.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10046,7 +10046,7 @@
 	)
 	(text "800mV/ 900mV"
 		(exclude_from_sim no)
-		(at 284.48 87.63 0)
+		(at 284.48 90.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10081,7 +10081,7 @@
 	)
 	(text "2V5"
 		(exclude_from_sim no)
-		(at 246.38 222.25 0)
+		(at 246.38 225.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10114,7 +10114,7 @@
 	)
 	(text "3V3"
 		(exclude_from_sim no)
-		(at 231.14 128.27 0)
+		(at 231.14 131.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44744,7 +44744,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -44812,7 +44812,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -45261,7 +45261,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -45341,7 +45341,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -45856,7 +45856,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -46493,7 +46493,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -46561,7 +46561,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -48125,7 +48125,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -48193,7 +48193,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -48494,7 +48494,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -48574,7 +48574,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -49011,7 +49011,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -49105,7 +49105,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -49185,7 +49185,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -49454,7 +49454,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -49522,7 +49522,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-01356"
@@ -50643,7 +50643,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -50723,7 +50723,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -52524,7 +52524,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -52604,7 +52604,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -53439,7 +53439,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -53519,7 +53519,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -53863,7 +53863,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -53931,7 +53931,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -54900,7 +54900,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -54968,7 +54968,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -55905,7 +55905,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -56148,7 +56148,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -56575,7 +56575,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -56655,7 +56655,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -57934,7 +57934,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -58002,7 +58002,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -58303,7 +58303,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -58371,7 +58371,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -59524,7 +59524,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -59592,7 +59592,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -59881,7 +59881,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -59949,7 +59949,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -60250,7 +60250,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -60318,7 +60318,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -61434,7 +61434,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -61502,7 +61502,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -61897,7 +61897,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -61965,7 +61965,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -62635,7 +62635,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -62715,7 +62715,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -63396,7 +63396,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -63476,7 +63476,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -64503,7 +64503,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -64571,7 +64571,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -65145,7 +65145,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -65213,7 +65213,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -65466,7 +65466,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -65534,7 +65534,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -66714,7 +66714,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -67617,7 +67617,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -67697,7 +67697,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" ""
@@ -67986,7 +67986,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -68066,7 +68066,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -68271,7 +68271,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -70503,7 +70503,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -70571,7 +70571,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -71391,7 +71391,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -71471,7 +71471,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -71664,7 +71664,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -71732,7 +71732,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -72937,7 +72937,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -73017,7 +73017,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -73306,7 +73306,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -73386,7 +73386,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -74154,7 +74154,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -74248,7 +74248,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -74316,7 +74316,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -74974,7 +74974,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -75042,7 +75042,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-01356"
@@ -75456,7 +75456,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -75536,7 +75536,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -75729,7 +75729,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -75797,7 +75797,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -76246,7 +76246,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -76340,7 +76340,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -76420,7 +76420,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -76625,7 +76625,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -76693,7 +76693,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -77006,7 +77006,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -77074,7 +77074,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -77747,7 +77747,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -77827,7 +77827,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -78391,7 +78391,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -78459,7 +78459,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -80589,7 +80589,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -80669,7 +80669,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -81363,7 +81363,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -81443,7 +81443,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -81710,7 +81710,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -81778,7 +81778,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -82173,7 +82173,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -82253,7 +82253,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -83357,7 +83357,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -83425,7 +83425,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -83800,7 +83800,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -84024,7 +84024,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ALTERNATE_MANUFACTURER" "N/A"
@@ -84699,7 +84699,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -84767,7 +84767,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -85206,7 +85206,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "${ALTIUM_VALUE}"
@@ -85300,7 +85300,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -85368,7 +85368,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -85744,7 +85744,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -85812,7 +85812,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00099"
@@ -86635,7 +86635,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -86703,7 +86703,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00100"
@@ -87004,7 +87004,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -87084,7 +87084,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" ""
@@ -87931,7 +87931,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -88011,7 +88011,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -88204,7 +88204,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -88272,7 +88272,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-01356"
@@ -89277,7 +89277,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -89357,7 +89357,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -90037,7 +90037,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -90117,7 +90117,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -90310,7 +90310,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -90390,7 +90390,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9142249"
@@ -90679,7 +90679,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -90759,7 +90759,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -91112,7 +91112,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -91192,7 +91192,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"

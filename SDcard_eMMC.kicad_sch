@@ -56653,7 +56653,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "MR01A-01211"
@@ -56721,7 +56721,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -57340,7 +57340,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -57420,7 +57420,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -58167,7 +58167,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -58235,7 +58235,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -59094,7 +59094,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -59162,7 +59162,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -60383,7 +60383,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -60439,7 +60439,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00063"
@@ -61047,7 +61047,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -61433,13 +61433,14 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 187.198 229.108 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "ALTERNATE_EMS" ""
@@ -61631,7 +61632,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -61699,7 +61700,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-01356"
@@ -62168,7 +62169,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -62224,7 +62225,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00063"
@@ -62832,7 +62833,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -62900,7 +62901,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -63345,7 +63346,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -63425,7 +63426,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -63714,7 +63715,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -63770,7 +63771,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00063"
@@ -64451,7 +64452,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -64531,7 +64532,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -64820,7 +64821,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -64888,7 +64889,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -65938,7 +65939,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -65994,7 +65995,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00063"
@@ -66599,7 +66600,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -66679,7 +66680,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -67459,7 +67460,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -67539,7 +67540,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -67732,7 +67733,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -67788,7 +67789,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00053"
@@ -68245,7 +68246,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -68325,7 +68326,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -68518,7 +68519,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -68574,7 +68575,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00063"

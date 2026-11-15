@@ -53186,7 +53186,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -53266,7 +53266,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -55082,7 +55082,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -55162,7 +55162,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -55451,7 +55451,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -56710,7 +56710,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -56778,7 +56778,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -58039,7 +58039,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -58107,7 +58107,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -62466,7 +62466,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -62534,7 +62534,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "BMS_PART_NUMBER" "9131590"
@@ -62835,7 +62835,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Test Point"
@@ -64698,7 +64698,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" ""
@@ -64754,7 +64754,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "INTERNAL_PART_NUMBER" "MCD-00061"
@@ -68333,7 +68333,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -68413,7 +68413,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"

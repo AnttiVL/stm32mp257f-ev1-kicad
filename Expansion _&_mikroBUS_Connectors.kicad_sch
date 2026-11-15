@@ -37252,7 +37252,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -37332,7 +37332,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -39504,7 +39504,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -39584,7 +39584,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -39790,7 +39790,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
 		(property "Value" "Resistor"
@@ -39858,7 +39858,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
 		(property "STATUS" "Released"

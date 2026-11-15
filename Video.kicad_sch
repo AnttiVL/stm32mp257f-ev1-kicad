@@ -48687,6 +48687,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 123.19 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -48727,7 +48728,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -48807,7 +48808,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Checked"
@@ -50690,6 +50691,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 120.65 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50806,7 +50808,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -50886,7 +50888,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -51154,7 +51156,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "ESD-TRANSIL"
@@ -51576,7 +51578,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -51656,7 +51658,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Checked"
@@ -54652,6 +54654,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 110.49 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -55260,6 +55263,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 118.11 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -55653,7 +55657,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "0R"
-			(at 154.432 93.726 0)
+			(at 162.56 98.552 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -55848,7 +55852,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -55928,7 +55932,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Checked"
@@ -56530,7 +56534,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -56610,7 +56614,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -57390,6 +57394,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -60029,6 +60034,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 113.03 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -61216,6 +61222,7 @@
 		)
 		(property "ALTIUM_VALUE" "N/A"
 			(at 156.972 125.73 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -63283,7 +63290,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -63363,7 +63370,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Released"
@@ -64069,7 +64076,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "Capacitor"
@@ -64149,7 +64156,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify right top)
 			)
 		)
 		(property "STATUS" "Checked"
