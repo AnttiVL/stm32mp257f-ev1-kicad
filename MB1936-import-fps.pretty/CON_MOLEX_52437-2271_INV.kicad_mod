@@ -1696,7 +1696,8 @@
 	(pad "S1" smd custom
 		(at -6.5 2.7 180)
 		(size 0.000001 0.000001)
-		(layers "F.Cu")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
 		(thermal_bridge_angle 90)
 		(options
 			(clearance outline)
@@ -1716,7 +1717,8 @@
 	(pad "S2" smd custom
 		(at 6.5 2.7 180)
 		(size 0.000001 0.000001)
-		(layers "F.Cu")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
 		(thermal_bridge_angle 90)
 		(options
 			(clearance outline)

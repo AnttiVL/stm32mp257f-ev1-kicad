@@ -922,7 +922,7 @@
 		(size 0.65 0.65)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
-		(solder_mask_margin 0.05)
+		(solder_mask_margin 0)
 		(thermal_bridge_angle 90)
 		(uuid "3b1de6fa-515a-4f70-904d-9729597ac3ba")
 	)
@@ -931,7 +931,7 @@
 		(size 0.95 0.65)
 		(drill oval 0.95 0.65)
 		(layers "*.Cu" "*.Mask")
-		(solder_mask_margin 0.05)
+		(solder_mask_margin 0)
 		(uuid "38df996c-856c-4ba4-ac46-b7daa4c7de8b")
 	)
 	(pad "A1" smd rect
