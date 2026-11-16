@@ -1,0 +1,27 @@
+STM32MP257F-EV1 (MB1936 Rev E): KiCad 10 project
+
+Copyright (c) 2025 STMicroelectronics. Title to the design remains with
+STMicroelectronics and its licensors.
+
+The files in this repository are a conversion to KiCad format of
+STMicroelectronics' MB1936 board design files: reference designs, schematics,
+PC board layouts and documentation, called the "Reference Material". The
+Reference Material is licensed by STMicroelectronics International N.V. under
+its Open Platform License Agreement:
+
+    https://www.st.com/opla
+
+This modified copy is distributed under that same agreement. By using these
+files you accept its terms and conditions; do not use them unless you agree.
+The agreement allows the Reference Material to be used, modified, copied and
+distributed for the purpose of evaluating, testing and developing application
+boards based on ST products. It may not be offered for sale, sold or leased,
+and ST's name, logo and trademarks may not be used to endorse or promote
+products derived from it without ST's prior written permission. The material
+is provided "as is", without warranty of any kind.
+
+No other licence is granted by this repository.
+
+This repository is not affiliated with, endorsed by or supported by
+STMicroelectronics. ST, STM32 and the ST logo are trademarks of
+STMicroelectronics.
