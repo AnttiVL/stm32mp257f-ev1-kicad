@@ -390,8 +390,7 @@
 	(pad "1" smd circle
 		(at -0.45 0)
 		(size 0.254 0.254)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_paste_margin -10)
+		(layers "F.Cu" "F.Mask")
 		(thermal_bridge_angle 90)
 		(uuid "7f699554-5f74-42d9-a67c-a8d254138312")
 	)
@@ -418,8 +417,7 @@
 	(pad "2" smd circle
 		(at 0.525 0)
 		(size 0.254 0.254)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_paste_margin -10)
+		(layers "F.Cu" "F.Mask")
 		(thermal_bridge_angle 90)
 		(uuid "fd0a828b-0699-4d53-a90f-2f37c84a2f2d")
 	)
