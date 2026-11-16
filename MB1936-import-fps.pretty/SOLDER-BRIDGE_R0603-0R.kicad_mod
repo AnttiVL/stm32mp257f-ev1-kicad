@@ -107,7 +107,7 @@
 	)
 	(sheetname "MB1936_Project_Overview\\U_MB1936-TOP\\U_Video")
 	(sheetfile "MB1936_Project_Overview\\U_MB1936-TOP\\U_Video.kicad_sch")
-	(attr smd)
+	(attr smd allow_soldermask_bridges)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_poly
 		(pts

@@ -2771,37 +2771,7 @@
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "4f3a12ed-0aad-4351-bc47-effd2ceb6f1f")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 0)
-		)
-		(polygon
-			(pts
-				(xy 422.65219 64.9072) (xy 422.65219 60.1072) (xy 424.10219 60.1072) (xy 424.10219 64.9072)
-			)
-		)
-	)
-	(zone
-		(layer "F.Cu")
-		(uuid "774c4be0-a420-484b-a0dc-b877075f88c7")
+		(uuid "7032f39e-6cf7-434e-a538-16aa0d72de4c")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -2825,13 +2795,13 @@
 		)
 		(polygon
 			(pts
-				(xy 422.65219 64.9072) (xy 422.65219 60.1072) (xy 424.10219 60.1072) (xy 424.10219 64.9072)
+				(xy -6.1 -10.1) (xy 2.9 -10.1) (xy 2.9 -8.1) (xy -6.1 -8.1)
 			)
 		)
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "429fb24b-4a98-499b-961f-f27268cd779f")
+		(uuid "72ee1451-400f-4423-836c-e928978ab996")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -2855,13 +2825,13 @@
 		)
 		(polygon
 			(pts
-				(xy 424.9022 62.9072) (xy 433.9022 62.9072) (xy 433.9022 64.9072) (xy 424.9022 64.9072)
+				(xy 2.9 -10.1) (xy 2.9 -8.1) (xy -6.1 -8.1) (xy -6.1 -10.1)
 			)
 		)
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "549e08d1-d199-4ed0-bc4a-18357790f2ba")
+		(uuid "365c7836-5180-4c4f-91ef-edf3f839aa0c")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -2885,7 +2855,37 @@
 		)
 		(polygon
 			(pts
-				(xy 424.9022 62.9072) (xy 433.9022 62.9072) (xy 433.9022 64.9072) (xy 424.9022 64.9072)
+				(xy -8.35001 -8.1) (xy -8.35001 -12.9) (xy -6.90001 -12.9) (xy -6.90001 -8.1)
+			)
+		)
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "3de395da-8d7c-4f9e-b5f8-c55b9bd41055")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -8.35001 -12.9) (xy -6.90001 -12.9) (xy -6.90001 -8.1) (xy -8.35001 -8.1)
 			)
 		)
 	)

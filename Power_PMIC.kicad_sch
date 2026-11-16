@@ -45965,7 +45965,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:LINK200"
+		(property "Footprint" "MB1936-import-fps:LINK200_W0P8"
 			(at 345.44 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -48140,7 +48140,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 336.55 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -51777,7 +51777,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 332.74 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -53878,7 +53878,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 76.2 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -57381,7 +57381,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 254 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -58318,7 +58318,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 210.82 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -59896,7 +59896,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 336.55 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -60265,7 +60265,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 336.55 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -61449,7 +61449,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 336.55 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -62281,7 +62281,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 332.74 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -64887,7 +64887,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 332.74 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -68286,7 +68286,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:LINK200"
+		(property "Footprint" "MB1936-import-fps:LINK200_W0P8"
 			(at 342.9 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -70962,7 +70962,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 336.55 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -71679,7 +71679,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 220.98 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -76261,7 +76261,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:LINK200"
+		(property "Footprint" "MB1936-import-fps:LINK200_W0P8"
 			(at 365.76 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -79639,7 +79639,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 335.28 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -80235,7 +80235,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 332.74 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -82094,7 +82094,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:LINK200"
+		(property "Footprint" "MB1936-import-fps:LINK200_MASK-OPEN"
 			(at 345.44 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -85221,7 +85221,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:LINK200"
+		(property "Footprint" "MB1936-import-fps:LINK200_W0P8"
 			(at 358.14 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -85315,7 +85315,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:C0603"
+		(property "Footprint" "MB1936-import-fps:C0603_SILK"
 			(at 264.16 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -88626,7 +88626,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MB1936-import-fps:R0603"
+		(property "Footprint" "MB1936-import-fps:R0603_SILK"
 			(at 332.74 130.81 0)
 			(hide yes)
 			(show_name no)

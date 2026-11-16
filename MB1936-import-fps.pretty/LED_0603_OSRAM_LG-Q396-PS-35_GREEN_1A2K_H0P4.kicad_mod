@@ -380,7 +380,7 @@
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "a302b749-f5c8-45f1-bfa3-7bceabd13ceb")
+		(uuid "2fb97815-5948-4415-b8f2-11baf2af6a07")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -404,7 +404,7 @@
 		)
 		(polygon
 			(pts
-				(xy 259.0588 25.10752) (xy 259.0588 24.30752) (xy 259.7588 24.30752) (xy 259.7588 25.10752)
+				(xy -0.34994 0.4) (xy -0.34994 -0.4) (xy 0.35006 -0.4) (xy 0.35006 0.4)
 			)
 		)
 	)

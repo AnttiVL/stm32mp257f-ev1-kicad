@@ -5522,7 +5522,7 @@
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "d42e68b2-9d93-4c03-9e69-86419415033f")
+		(uuid "83b861ee-ccf0-44ff-8bde-860cfb9ae916")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -5546,13 +5546,13 @@
 		)
 		(polygon
 			(pts
-				(xy 86.9975 300.7047) (xy 86.9975 294.9047) (xy 92.7975 294.9047) (xy 92.7975 300.7047)
+				(xy -2.5 -21) (xy -2.5 -26.8) (xy 3.3 -26.8) (xy 3.3 -21)
 			)
 		)
 	)
 	(zone
 		(layer "F.Cu")
-		(uuid "ff539708-3134-4038-bc1b-4ba42cc5b3a5")
+		(uuid "cf735b69-af1f-4dc7-97fb-6534915ed4ba")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -5576,7 +5576,7 @@
 		)
 		(polygon
 			(pts
-				(xy 116.9975 300.7047) (xy 116.9975 294.9047) (xy 111.1975 294.9047) (xy 111.1975 300.7047)
+				(xy 27.5 -21) (xy 27.5 -26.8) (xy 21.7 -26.8) (xy 21.7 -21)
 			)
 		)
 	)
