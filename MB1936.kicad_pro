@@ -88,6 +88,714 @@
       ],
       "drc_exclusions": [
         [
+          "silk_edge_clearance|100066100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|4584ac76-aa58-4632-89a7-7701a7745000",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|109266100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|fc96f983-4054-4799-825a-8eefe061f268",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|113774441|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|bb3c7e41-7b23-48b3-b3eb-1d4ec21ed637",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|116246100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|e1e33601-dcfc-41f6-9fa4-1d7ad57a1599",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|132756100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|83f8adb2-9be6-4d99-a71d-8eed4c5ed113",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|135230747|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|e7f25efd-5865-4131-bbbd-3fabf3ee0bf5",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|138774441|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|2a9c9e17-af75-4711-a1f4-275c7a14cc18",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|141246100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|3b9798ab-aeb9-492b-b5a1-35f1446f80e1",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|157756100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|f95d4a32-3e70-4637-bf3c-54c3e895028c",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|160230747|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|1489c41a-fdbf-4e76-9a5b-4050130e5dba",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|163774441|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|28bb12c4-4fcd-4c50-862c-d20888ce5234",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|166246100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|d28f0573-cd0a-4d99-a3d5-aa6cc1912f55",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|182756100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|334bd7d8-bc5f-49fc-b941-6d52b802edce",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|185230747|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|bb87f01f-a2f3-4c29-aa27-2228c81af427",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|196951100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|de043851-e819-460b-9ed6-e1da46d53713",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|198748536|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|ffc67901-72f7-4259-a428-fd26d613f788",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|199005438|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|91020f95-5ed6-4962-bdfc-557afa7ebde7",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|199801001|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|2f7fa3b4-8d61-402d-8467-63f0d97fd668",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|200064177|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|6397bd5c-0269-44ab-9fd0-dcc8bd76f0dd",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|206748536|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|3d469ffe-6157-430c-b3bf-f4fb69d6a641",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|207005438|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|38c87188-653a-4d99-8ce3-c0b57f322826",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|207801001|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|281f1947-cd10-40ab-9062-446ad30292bb",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|208064177|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|9ada98a1-312f-457e-9b17-b40f8b20fb12",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|208151100|36503600|68fd6c44-22ab-48ba-922e-8f92f9a55f82|d8954b8a-bbb5-4b91-a14a-61045d0d35f0",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|210051100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|3ca26f5a-659c-401c-9f84-b42204d52d79",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|210326100|36503600|68fd6c44-22ab-48ba-922e-8f92f9a55f82|7406215b-063b-4700-802a-19d67c033f0f",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|210701100|36503600|68fd6c44-22ab-48ba-922e-8f92f9a55f82|b7611a64-75c6-430a-8bdd-c0043377481a",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|212501100|36503600|68fd6c44-22ab-48ba-922e-8f92f9a55f82|5f9405ab-e398-432d-a975-8a6cc8d5b58e",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|222201110|36503600|68fd6c44-22ab-48ba-922e-8f92f9a55f82|1acf8585-7a44-461e-8df0-5fcd601d33de",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|234501100|146628600|4f3f52c9-266d-4295-994e-460cfdee223c|34f3b4c6-4815-4fda-aa1a-c0301626fdfb",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|234501100|155828600|4f3f52c9-266d-4295-994e-460cfdee223c|48fca7fd-08af-4452-9c7d-cc23eda7d76e",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|62501100|101023600|037066b1-1b29-46a4-a8b9-6f6c40de4d00|85012e39-f157-40fc-925f-63caa92449de",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|62501100|105818600|037066b1-1b29-46a4-a8b9-6f6c40de4d00|8065c981-9548-40d1-a4bf-a8c0cebe8198",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|62501100|136818600|037066b1-1b29-46a4-a8b9-6f6c40de4d00|6bee0bb9-1f98-43a6-93ae-7594dabb7812",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|62501100|70023600|1e4fc7b3-c02c-4fb0-a582-3e26462e2e06|e154c4bf-ae4c-4091-9be4-a63387c62ed2",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|75901100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|45f2fd9e-f096-4846-970a-209569888c94",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|80501100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|c2edd81f-d33b-40ac-96dd-efd199f45919",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_edge_clearance|85101100|173503600|6e0db19c-3f4e-47f3-bdef-9542f176a03c|5b3eb232-b66b-43da-a32a-93fd540d3079",
+          "Reviewed: silkscreen at the board edge in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|102173899|140475713|d4bfbabd-5206-4211-b912-68d44216e2e4|f56bd7e3-2613-494b-b76e-cdcdf0c3fbc2",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|102184200|139345141|d4bfbabd-5206-4211-b912-68d44216e2e4|3ca5518b-2316-4505-b934-31d213ccf56d",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|104173069|105888982|ffadfca4-4927-41e6-8568-8a31eb799c10|9fe3b234-b77d-4741-b6e3-16513967e3bb",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|106127447|88571600|51271cc5-7561-4388-b755-ef1c2ee27cde|2ed1c946-7fdf-49cf-87f1-5b1a62355776",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|106946354|139040959|cfda51ef-1384-4848-8098-a5a9349d5df1|696489f4-c095-4bae-a8d9-a7a5c62b5c17",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|106949477|139775718|cfda51ef-1384-4848-8098-a5a9349d5df1|ee3e5241-1af0-462c-9dde-7cfbfdff3b45",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|107449319|105838972|a85aee85-c824-4eba-89c1-cc743f198ca8|8d83b71f-59b5-4c99-abe0-eaa32a246c30",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|107449736|104214806|a85aee85-c824-4eba-89c1-cc743f198ca8|2eb4e603-bacd-469f-9e87-5a65e9b1ea20",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|108282141|150649277|62ce7707-34d0-4108-bf65-ccbccffc367f|4242d508-b7ad-44dc-827c-75fe664266aa",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|109366100|169528600|f9b1c5ed-ecda-45f9-b2a6-0d93d78978f9|fad52832-af55-4534-8a2c-5f6b350f0030",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|109497737|169535705|ca81cc95-0038-4f42-ac9b-505323be879d|fad52832-af55-4534-8a2c-5f6b350f0030",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|112986105|83676600|8d1b994e-7991-482f-8008-dd1bc5d12855|7426e347-6fae-449c-aa3a-d8e8956504a3",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|115021422|140290867|99945ce3-7622-42af-a776-aba97bebf323|2bfb3280-dfc1-45b8-a03b-f242cc9d6619",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|115024269|140817776|99945ce3-7622-42af-a776-aba97bebf323|ebef0642-e464-4d49-98ba-f98209e25bff",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|115146445|104879540|cc503536-44a5-4a38-be24-a33e1ab12fb2|8e2692b2-be1a-4332-b5e7-9a03b841b84f",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|115149487|106099968|cc503536-44a5-4a38-be24-a33e1ab12fb2|4e45f979-bf56-4b73-999f-bf856d22bb46",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|110983600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|1213bc83-17ad-47de-b4e6-3d6377b33c44",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|112483600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|66924b1c-de6f-4f97-9615-3fb621aabc4a",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|115023600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|fd97a13b-f016-454e-9922-d2a001616777",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|118603600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|e245c366-44a6-4f86-9b6d-e94c860dff29",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|121143600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|9a5f1f1b-3fec-492e-abf0-d46cb0e2e290",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|123683600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|1e2c4fd6-4e3d-49ee-abf8-e704b0c6f4c3",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|126223600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|1ee14764-1052-41dd-8818-6f00ba787c50",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|128763600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|cfe1eac9-13b0-4996-af66-391c63ae7cfd",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|123376100|129903600|f5084ab3-c2e4-47fb-aaed-140ff071d1f9|fdae64a9-486f-4c06-8414-ffe147da79c3",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|124207810|143161142|0e605420-4854-41f0-86a8-e69ca55c167d|1bba3e59-45d1-438e-8e11-90be16fc591d",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|127685183|130187208|91c0184e-bca6-492a-9da0-6bb673ae7511|84c393b0-da1f-4e4c-b868-bad1f0d3466e",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|128103881|124521147|4fbcb5cd-6025-4c13-9699-886d88d2443d|69b04a09-5afc-4900-ba5b-b1c286bdabdd",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|129778030|129294694|056ca541-6e3b-4361-be2d-9848cee13fed|a2ba9d8f-6504-45ec-82c3-4907a53c6b6c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|130768490|130187208|91c0184e-bca6-492a-9da0-6bb673ae7511|39a4d4f1-1d28-41f0-85ea-96a4ec3e7003",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|140217874|108735413|e6b363eb-bc50-4151-9612-282ba8614f77|e067aa52-eb8a-443c-88cc-98b551d41a3f",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|142010106|143746968|818e853a-e58b-4205-9720-518820b7601c|04193b7b-17cb-4b4d-9e00-e6114213152c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|148893718|103240411|aa7aa80c-bb12-414a-930e-bb5967ccda26|9a9b3e68-4d36-4ed8-9a9e-74cb12fb60ff",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|149017342|103787368|aa7aa80c-bb12-414a-930e-bb5967ccda26|f1e75d86-e04f-48f2-8dbe-e26c7a481e36",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|149661291|103863791|aa7aa80c-bb12-414a-930e-bb5967ccda26|22162103-0c8f-47a2-812f-5bf254c81b07",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|150501100|103966126|aa7aa80c-bb12-414a-930e-bb5967ccda26|8b3e5a90-28a9-4515-b9ed-c97694cdb9aa",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|151494195|103966126|aa7aa80c-bb12-414a-930e-bb5967ccda26|aab5f07a-8644-4296-90df-35506a864c31",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|151978004|103240411|aa7aa80c-bb12-414a-930e-bb5967ccda26|849fa852-e253-40d5-a200-c618b56f1752",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|152098957|103724221|aa7aa80c-bb12-414a-930e-bb5967ccda26|ce7c6dd4-c1f8-4a01-b3ae-3126640f6f5c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|152764195|103179935|aa7aa80c-bb12-414a-930e-bb5967ccda26|cb46f955-82db-49e8-8338-f7fe20a7401b",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|152901100|103966126|aa7aa80c-bb12-414a-930e-bb5967ccda26|89a10704-5dfc-4e3f-b17c-726cea1114b6",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|153150138|137084027|91d3ad98-0d69-49b2-a9c6-e77f0018ee20|eea0c95b-0b0a-412c-85cd-6c82fa5e2255",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|168399309|124654123|719e8069-fcc2-4443-ac9c-39fdb6fc46a4|e4dbb4a1-91e8-47c5-870d-63fca2adadfc",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|168473906|123429540|719e8069-fcc2-4443-ac9c-39fdb6fc46a4|f086a1ab-fa8c-489d-9b88-a60832ff6d9c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|177258308|141826242|3128dc09-d19f-4597-ad08-956d05824978|f75056ec-1f70-4668-97d1-d2163b65a43b",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|177367769|140888060|3128dc09-d19f-4597-ad08-956d05824978|597678eb-4861-46a4-8071-15fe7df0203d",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|180657693|150074420|92809161-475b-41bd-a07b-af47e1304207|297eae9e-2717-4445-bd2f-9d32426b9de5",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|180657892|151268345|92809161-475b-41bd-a07b-af47e1304207|13a38436-b0ab-4888-9e70-ba056aab565c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|200158343|104460455|cb6ad243-0476-49f8-89a9-cb26ba69381f|ccbfafba-1dfa-4fb8-b320-93039ffafdfa",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|201036766|104452758|cb6ad243-0476-49f8-89a9-cb26ba69381f|9114a9b2-a8b2-446b-911a-71ec304d0c00",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|217449850|53297879|edf42fc2-8454-4c70-a071-1b61f6ad928e|ec175b5f-8e16-4c6c-89b0-b9dc742dfca9",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|221028813|157351399|42b22a32-55f9-428d-85a0-2d47b27a5712|9ecbb3e4-27ff-4b2a-8737-3f818d0a8829",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|221585020|157372539|42b22a32-55f9-428d-85a0-2d47b27a5712|25e9ae7f-f0d8-4c59-8b8f-a7c5d0eaabe8",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|221944077|92821913|50f5c216-29e3-42b7-a63b-ff79bbfcdf24|6fe71c82-cb9d-4fe3-9a14-2396adc652de",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|222280431|92822475|50f5c216-29e3-42b7-a63b-ff79bbfcdf24|5395e732-a502-49dd-b2c4-8c68a20ecb1f",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|230536100|146528600|7be08843-7c3d-46c9-b9f1-523acdc3f356|5b6d2053-9a1a-4a2a-9162-15752022b5ba",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|230536100|155928600|c0fc26a7-041c-4e98-a70c-2cc0a80e7461|0f4b2d30-8263-483c-a45b-24b5f398e627",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|76893297|153001819|7e77e1ad-8294-413f-bbaf-2a3362deafd0|21adc07f-939d-471d-9795-e1b20b6fbdd2",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|93359686|126017331|a6c4f54d-831b-4a95-b084-71787ef093cc|e9571605-4418-47fa-abb6-2af4191c6d28",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|94328278|126028410|a6c4f54d-831b-4a95-b084-71787ef093cc|75e8ac2d-2606-4dcd-8365-9ae5ca1416ba",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|96026878|148230699|6312660a-bd27-40f4-8191-cfba1dddceeb|32dac0b3-1b2c-425c-b8d6-638cadf698af",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|96056864|148766454|6312660a-bd27-40f4-8191-cfba1dddceeb|32e4e7e2-cec0-48d4-bcdc-ef1fd9a86b52",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|96075383|149858829|6312660a-bd27-40f4-8191-cfba1dddceeb|d81b9320-2aee-4ef3-b259-1f380b2ebec7",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|96584129|169699749|d65a5131-8479-4831-a8cb-4bb5156575b1|5db793b7-3299-4c67-ad58-2891f7d79716",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97337492|169703424|d65a5131-8479-4831-a8cb-4bb5156575b1|1b8da9a1-5a8d-4617-837a-5ea48597b536",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|110983600|70047874-8807-4718-b87b-c8153ad0802c|d13dbd5e-54a6-4a3c-aaf1-a4102bb0438e",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|113523600|70047874-8807-4718-b87b-c8153ad0802c|691359ad-45a7-4f15-82d6-34236900e120",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|116063600|70047874-8807-4718-b87b-c8153ad0802c|a94baa54-a47b-4b12-bd0b-bd63a9deb637",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|118603600|70047874-8807-4718-b87b-c8153ad0802c|1ce19439-b789-41d1-af47-39a03b96cb8c",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|120103600|70047874-8807-4718-b87b-c8153ad0802c|b893a2b0-ffb6-4618-802d-2b3db511e681",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|123683600|70047874-8807-4718-b87b-c8153ad0802c|e4e208ae-1692-408e-8430-dca8f72851d5",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|126223600|70047874-8807-4718-b87b-c8153ad0802c|a6a1c38e-fa5e-4feb-945c-4a5040d80f72",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|97976100|128763600|70047874-8807-4718-b87b-c8153ad0802c|39ddbff9-e3f4-4248-9c7d-dee5ae6cb5fb",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_over_copper|99966100|169528600|a08d3569-b128-41b7-87d1-094a4c263bc4|cb4d0372-0c74-4c0f-ad75-c498953d3b37",
+          "Reviewed: silkscreen clipped by solder mask in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|101956502|112879944|30449da1-a9fa-4620-b600-9d5847a2e7e4|908a5d70-eb01-4689-8158-5abb063a64a6",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|102225410|153753600|4b93e239-2a4e-4397-93c7-84d489fffa9b|8583deab-be25-437c-a1d2-2f9ab599d31e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|102501182|161239798|692e51e2-0669-444a-bc78-a1232bab3a92|ae087357-97b9-4f5d-ab5a-b2409b2ec608",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|102576100|160744541|ae087357-97b9-4f5d-ab5a-b2409b2ec608|ae49bd17-a5d5-4058-aac1-a5231d58d99b",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|103826100|160014175|69c6af83-8573-4c30-8299-41c1323db0e6|7b5980fd-0ebb-4f55-9c97-ca465f1fa59c",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|103852974|160539920|5cca49aa-3098-47a6-9436-260daced739c|7b5980fd-0ebb-4f55-9c97-ca465f1fa59c",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|106442911|136189043|5d1cd107-2155-47ce-9c45-ba55d70b976a|d13c209e-f749-48b0-8d9c-39813c319852",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|106466252|126159688|30f78906-f743-4aed-b667-86bacfb4b628|d164f7f6-f283-4f45-ae33-771d7c881fa0",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|109366100|169734301|ca81cc95-0038-4f42-ac9b-505323be879d|f9b1c5ed-ecda-45f9-b2a6-0d93d78978f9",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|112086393|74747259|7c4b4506-7edd-4188-96e5-a0c2a61bc152|cfa2db76-18e9-4a3a-bdc5-a4e83d54e3d0",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|115241365|105866066|cc503536-44a5-4a38-be24-a33e1ab12fb2|e28a8aed-3132-4cf6-8f83-8c2269843cba",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|116193647|156775818|1a33fa8e-6476-40a8-9ed8-5ec8da82adc7|f40fb94c-1bee-4508-8bdd-f9b72eaff1ae",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|118776100|144808069|4298151b-cf31-4144-82b0-bb6075ad6028|cca78961-421d-43af-87a6-d80dea76cd4e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|119152387|144808069|c35a8899-a913-4afc-b5f2-6f6d6b91a1ca|cca78961-421d-43af-87a6-d80dea76cd4e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|121401100|150453600|31d89bb0-412c-4b5c-a9ce-fc0f7ebd3d92|9464d705-2607-42b4-ad66-949f33893c91",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|121401100|150453600|9464d705-2607-42b4-ad66-949f33893c91|9fb7ec35-7faf-4b60-b27b-f8a2ad9783db",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|126126570|99811500|336078ec-6b72-4802-a4d9-ddfd9a96067b|3bbb40a4-123b-4809-b371-956ef95c0622",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|128287597|130553942|45c31da3-e06c-4b35-be07-277e176869c5|91c0184e-bca6-492a-9da0-6bb673ae7511",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|128421498|130553600|011ab18b-28e7-4306-8b25-9eba9a334a63|91c0184e-bca6-492a-9da0-6bb673ae7511",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|128655669|105260386|80b0e428-9891-4783-b283-e2849baf9045|d4410903-ddb0-4bee-b757-db0c0ebb4251",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|134164946|111133314|40cec9ba-08ec-4054-a486-f4a35dcb5cfa|e11e5d00-86c6-4f48-a345-150fdf1a094e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|136622094|45981165|3e16143f-8817-448b-afb9-10c44efb4315|fd4fdbac-a092-402b-a0e9-7185406fd8e7",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|137520240|110458069|57a532ac-fc00-4a1a-b2ac-77507c5eab06|f1d458f5-70d2-436a-ac68-cac39e77a8c5",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|141193647|157728600|6f252e0c-fa84-4077-b99f-e8f5398438ef|a543968a-7bb6-4c22-b3c6-e065637b4696",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|146401100|150453600|3991b939-f679-4a8d-b0c2-7b4c3ce2cd42|505c0886-10f1-43b3-b813-29f672710429",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|146401100|150453600|3991b939-f679-4a8d-b0c2-7b4c3ce2cd42|ad34b37e-23e4-4a63-97b9-647d3b6817c1",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|153107510|136355244|91d3ad98-0d69-49b2-a9c6-e77f0018ee20|c01da64b-f25c-4fc5-b5a3-49b57849c913",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|159756170|149783996|36c8a78c-a6dc-4ca4-8e7f-e2f9a4469502|cf0920bc-ae51-4460-8a31-27295c40526e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|166193647|157728600|0ec12508-ccd8-4874-bd90-0cecc14a0c3e|1f83861a-b872-4594-9f3c-0f167cca8406",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|166616338|129597081|0b0dbf46-3f84-4b7d-b304-ce78a13764af|e891eec6-b1a3-49c2-b2a9-e9c36e2c980e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|169453247|144778600|8d19417f-e7ae-42c1-9476-9ed7f9c1959b|c3f78c56-5547-4482-862b-89c44bc370f8",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|171401100|150453600|0e4be6f3-b942-4518-a017-163f672afaad|1b5d89e1-d48a-4905-b854-3559017ce4ab",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|171401100|150453600|1b5d89e1-d48a-4905-b854-3559017ce4ab|60fcd7d2-be66-4772-8c72-ef53e0b2ce74",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|179364205|153353600|d2821bdd-0eaf-4288-acc0-f38bd449f011|eb3b658c-6ea4-462f-adc0-58415010c943",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187351100|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|9cccc35d-0645-4b9d-84ac-f03d2610f017",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187368648|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|e68fa129-2766-4e68-b755-4b9d5a3aa682",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187467187|145153600|780e2bf0-38d0-4aa5-b32a-814171e8495d|da44aa60-24fb-430b-a2dc-726be7018ba4",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187583552|145136052|13191481-857c-45ec-aaa5-e988e8669a3d|780e2bf0-38d0-4aa5-b32a-814171e8495d",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187733552|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|85734c3e-daf3-42c6-9109-71c139d6d07c",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|187883552|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|c6470b3b-1271-45a1-af74-9b1d262f8f64",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|188033552|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|e79e235e-0ebe-4da9-862f-6275db670e65",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|188183552|145136052|780e2bf0-38d0-4aa5-b32a-814171e8495d|930e2333-dfbe-40a7-9c69-776ebe3704d6",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|193969920|44047547|93495f01-7d94-433c-81a4-d54c0f30b903|e369472f-ca98-47ad-95d5-b8f5dedd121d",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|197654723|44067996|54c50e16-9125-4e94-b682-989d3617e8fa|d4cf3a52-92f6-42fe-b7fa-4c12b68c7a12",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|198847052|138710682|4f229510-34bb-452a-87fa-0be9f0b12d29|8cc27155-5df2-40fc-a44d-877da00c3e2e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|203105986|105370411|2bce0d78-1712-4c76-97ac-4eb07f5135d3|38bae1b2-d8e8-4425-9675-66e093bcc2f6",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|210919970|153466111|7aadf889-a2ec-42a5-b6e4-64429b500ebe|f63b1286-e3c0-4810-abbd-6829026625e2",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|215455086|93393600|1b5d4d7d-2983-4f15-8784-2d95a68a28a4|488f7e78-f5a0-4d72-ac61-ea8ecb5b5561",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|230142187|110503600|479c8dc2-7170-478d-9902-7e4ccf658919|a6a8729e-4d49-4c38-b144-a4c64bd3e7e2",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|66633840|64053600|47b447d4-a3ac-490d-8a88-fa4a8ce88d05|73ed4b85-c91b-41af-bc1d-513112f3760b",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|68788086|67895411|1415a43a-6185-461e-af76-459233f6bcda|3cd62aa3-05eb-4f65-9581-3850b7a43d05",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|71831373|65253600|05764521-7595-4e81-bbbf-af28a8b554ea|7aba84e6-da64-4ab3-9eb6-26d5ec650356",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|71842962|65227564|31f244ee-f1a6-4289-ad26-6a316fc22210|7aba84e6-da64-4ab3-9eb6-26d5ec650356",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|75026100|148350818|a55b5b53-14d8-48bb-8c6d-52a816a7be06|df3f3ea7-4c3b-4d79-a67f-1ea7e32127ce",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|75068647|149003600|df3f3ea7-4c3b-4d79-a67f-1ea7e32127ce|e2f882a5-ca7a-41b1-ab34-ffed8d0c573d",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|75678881|114851147|5cef2888-8455-4f23-8b04-cc3e563e2a43|d7653a5b-9065-4662-90b0-c4f753f82645",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|75678881|79056147|78ca9691-fde9-435f-82e0-fcac436c5248|bbabfda0-77a1-4d64-a251-22743f757452",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|77001100|153001819|7e77e1ad-8294-413f-bbaf-2a3362deafd0|953b69b9-aa85-4089-8c66-414b3113597d",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|81748318|156126052|2b7bb28e-b36a-4122-88a0-51cdcda92416|9b51013c-e952-4e9a-8342-ace4fc51e13b",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|83378318|122136062|7754c622-733e-4e8a-87fc-aa4055afc5a3|ac056a63-688c-44ad-b3f7-c68d68ebf02d",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|89573318|152591052|877b6e71-f239-4709-a82e-be9db0a49b57|f162069c-089d-4e6c-9101-a2393277d592",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|96158647|135050818|4cd78a58-f9c5-4f30-9e19-f8d64a2c57ce|cbaede78-9154-42a8-8a29-84a44d527d71",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|97109962|153760933|720fcae8-7a3e-400a-a2be-07a070008b2f|7ea29b17-6f55-4a5b-900b-b1f230f40bba",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|98224487|90474968|8e55116d-5880-46c2-adae-8df7e1232657|b024048f-c59a-4d7a-bcc0-343799117a90",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
+          "silk_overlap|99284360|153809857|720fcae8-7a3e-400a-a2be-07a070008b2f|8583deab-be25-437c-a1d2-2f9ab599d31e",
+          "Reviewed: silkscreen overlap in ST's reference layout (as fabricated)"
+        ],
+        [
           "solder_mask_bridge|103246110|97971600|2772398a-5a76-4b07-b99e-5a1f417274f6|ad52c34a-07b5-47f9-b1d1-df49b567138b",
           "False positive: no other-net copper exposed in the plotted mask"
         ],
@@ -102,6 +810,14 @@
         [
           "solder_mask_bridge|113721110|92171600|350d95f2-18cd-4ff1-af8b-13b97dcd236a|6b3e3f62-510f-4509-9638-130372d3127d",
           "False positive: no other-net copper exposed in the plotted mask"
+        ],
+        [
+          "track_dangling|103501100|161778600|bbb468d9-062c-46ee-9921-d9ae5de098f0|00000000-0000-0000-0000-000000000000",
+          "Reviewed: 0.35 mm stub at CN21 CC1, present in ST's top copper (as fabricated)"
+        ],
+        [
+          "via_dangling|89938600|56653600|4284f6e1-d0c4-45ed-aa8a-71a2a9b7052c|00000000-0000-0000-0000-000000000000",
+          "Reviewed: LED2 via joins two F.Cu tracks only, as in ST's Gerbers and drill file (as fabricated)"
         ]
       ],
       "meta": {
