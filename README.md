@@ -76,13 +76,27 @@ used, modified, copied and distributed for the purpose of evaluating, testing
 and developing application boards based on ST products. By using these files
 you accept its terms, which include:
 
-- The material may not be offered for sale, sold or leased.
+- The material may be used only for evaluating, testing and developing
+  application boards based on ST products.
+- The material may not be offered for sale, sold, leased or otherwise
+  distributed except as the agreement permits.
+- Title to the material and all copies remains with ST and its licensors, and
+  you agree to prevent unauthorised copying of it. Copy and redistribute it
+  only as the agreement permits. (This repository also asks that you keep this
+  notice and [LICENSE.txt](LICENSE.txt) with every copy.)
+- The material is intended for skilled and trained technical people and must be
+  used and managed according to the related documentation provided with it.
 - ST's name, logo and other trademarks may not be used to endorse or promote
   products derived from it without ST's prior written permission. The board
   artwork carries ST's logo, as in ST's design: remove it from boards you derive
   from this design unless ST permits otherwise.
 - The material is provided "as is", without warranty of any kind.
 
-No other licence is granted; see [LICENSE.txt](LICENSE.txt).
+No other licence is granted; see [LICENSE.txt](LICENSE.txt). The full
+agreement text is the one published at <https://www.st.com/opla> and shipped
+with ST's design package; if this summary differs from it, the agreement
+applies. ST may terminate the licence for breach, in which case all copies must
+be destroyed or returned to ST. The agreement is governed by Swiss law, with the
+courts of Geneva competent.
 
 Copyright © 2025 STMicroelectronics.
